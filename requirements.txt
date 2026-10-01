@@ -1,0 +1,36 @@
+# Belt Bot — Python dependencies (backend)
+# ทดสอบกับ Python 3.10
+#
+# เวอร์ชันที่ตรึงด้วย == มาจากเครื่องที่รันผ่าน (env_lock.json / check_app.py)
+# ตัวที่เป็น >= ยังไม่ได้จดเวอร์ชันจริงไว้ — ควรรัน
+#   python -m pip freeze > requirements_lock.txt
+# บนเครื่องที่รันผ่านแล้ว commit ไฟล์นั้นไว้คู่กันก่อนส่งงาน
+#
+# torch รุ่น CPU ติดตั้งจาก index ของ PyTorch:
+#   pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu
+
+# ── โมเดล ──────────────────────────────────────────
+torch==2.9.1
+transformers==4.57.3
+peft==0.18.1
+einops>=0.7            # jinaai/jina-embeddings-v3 (trust_remote_code) ต้องใช้
+Pillow>=10.0
+
+# ── ค้นและกราฟ ─────────────────────────────────────
+qdrant-client==1.19.1
+networkx>=3.0
+
+# ── LLM ────────────────────────────────────────────
+google-generativeai>=0.8
+
+# ── Web API ────────────────────────────────────────
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9   # FastAPI ต้องใช้สำหรับ Form / File upload
+python-dotenv>=1.0
+
+# ── UI เดิม (chatbot_v5 ยัง import gradio) ─────────
+gradio==5.49.1
+
+# ── เฉพาะ patch_v30_1.py (อ่าน PDF แคตตาล็อก) ──────
+pymupdf>=1.24
