@@ -1,0 +1,159 @@
+﻿id,category,subcategory,turn_type,turn_number,user_text,image,must_contain,must_contain_any,must_not_contain,must_ask_back,expected_value,expected_unit,reply_max_length,metrics,description
+RT-001,routing,routing,single,1,MP80 C พิทช์เท่าไหร่,,MP80 C,,,,,,,routing,รหัส Modutech
+RT-002,routing,routing,single,1,LF 820 K325 กว้างเท่าไหร่,,,,,,,,,routing,รหัส Movex
+RT-003,routing,routing,single,1,สวัสดีครับ,,,ยินดี | มีเรื่อง,,,,,,routing,ทักทาย
+RT-004,routing,routing,single,1,อากาศวันนี้เป็นยังไง,,,ตอบได้เฉพาะ | ขออภัย,,,,,,routing,นอกเรื่อง เทิร์นแรก
+RT-005,routing,routing,single,1,ช่วยแปลภาษาอังกฤษให้หน่อย,,,ตอบได้เฉพาะ | ขออภัย,,,,,,routing,นอกเรื่อง
+RT-006,routing,routing,single,1,อยากได้สายพาน Modutech แนะนำหน่อย,,,อุตสาหกรรม | เปียก | จุดที่ใช้งาน,,,,,,routing,กว้างเกินไป ต้องถามกลับ
+RT-007,routing,routing,single,1,มีสายพานที่เลี้ยวได้ไหม,,,Movex | Modutech,,True,,,,routing,ไม่รู้แบรนด์
+RT-008,routing,routing,single,1,สายพาน SS มีอะไรบ้าง,,Movex | Modutech,,,,,,,routing,SS ตอบสองแบรนด์
+RT-009,routing,routing,multi,1,HC127 C กว้างเท่าไหร่,,HC127 C,,,,,,,routing,ถามต่อไม่มีรหัส
+RT-009,routing,routing,multi,2,หนาเท่าไหร่,,HC127 C,,,,,,,routing,
+RT-010,routing,routing,multi,1,HC127 C กว้างเท่าไหร่,,HC127 C,,,,,,,routing,ถามต่อเรื่องหน่วย
+RT-010,routing,routing,multi,2,กี่นิ้ว,,HC127 C,,,,,,,routing,
+RT-011,routing,routing,multi,1,HC127 C กว้างเท่าไหร่,,HC127 C,,,,,,,routing,ขอเปลี่ยนหน่วย
+RT-011,routing,routing,multi,2,ขอให้ตอบเป็นหน่วยนิ้วได้ไหม,,HC127 C,,,,,,,routing,
+RT-012,routing,routing,multi,1,MP80 C ใช้กับเบเกอรี่ได้ไหม,,MP80 C,,,,,,,routing,สลับแบรนด์กลางบทสนทนา
+RT-012,routing,routing,multi,2,แล้ว LF820 K325 กว้างเท่าไหร่,,,,,,,,,routing,
+RT-013,routing,routing,single,1,สายพานเลาะกระดูกไก่,,EC254 C | EC508 C | EC508 PR11,,,,,,,routing,คำอุตสาหกรรม → Modutech
+RT-014,routing,routing,single,1,โซ่ลำเลียงขวด PET,,,,,,,,,routing,คำงานขวด → Movex
+RT-015,routing,routing,multi,1,MP80 C กว้างเท่าไหร่,,MP80 C,,,,,,,routing,คำอ้างอิง + ถามอุณหภูมิ
+RT-015,routing,routing,multi,2,อันนี้ทนร้อนกี่องศา,,,เปียก | แห้ง,,True,,,,routing,
+RT-016,routing,routing,single,1,ขอบคุณครับ,,,ยินดี | มีเรื่อง,,,,,,routing,ขอบคุณ
+RT-017,routing,routing,multi,1,EC254 C พิทช์เท่าไหร่,,EC254 C,,,,,,,routing,ถามต่อเรื่องผิว
+RT-017,routing,routing,multi,2,แล้วผิวแบบไหน,,EC254 C,,,,,,,routing,
+RT-018,routing,routing,single,1,HC508 ใช้กับเนื้อสัตว์ได้ไหม,,,รุ่นไหน | หมายถึง,,True,,,,routing,ซีรีส์กำกวม
+CD-001,code,code,single,1,mp80c พิทช์เท่าไหร่,,MP80 C,,,,,,,code,พิมพ์เล็กติดกัน
+CD-002,code,code,single,1,MP8 0 C พิทช์เท่าไหร่,,MP80 C,,,,,,,code,รหัสแตกช่องว่าง (OCR)
+CD-003,code,code,single,1,MD254-RR พิทช์เท่าไหร่,,MD254 RR,,,,,,,code,ขีดกลาง
+CD-004,code,code,single,1,EC254 R-GT พิทช์เท่าไหร่,,EC254 R-GT,,,,,,,code,ห้ามตัดเหลือ EC254 R
+CD-005,code,code,single,1,EC254 R พิทช์เท่าไหร่,,EC254 R,,,,,,,code,รหัสสั้นกว่า
+CD-006,code,code,single,1,XP254 PR22% พิทช์เท่าไหร่,,XP254 PR22%,,,,,,,code,มีเครื่องหมาย %
+CD-007,code,code,single,1,MD127 GAP50% กว้างเท่าไหร่,,MD127 GAP50%,,,,,,,code,GAP + %
+CD-008,code,code,single,1,HC508 C-MTW ทนร้อนไหม,,,เปียก | แห้ง,,True,,,,code,ต่อท้ายหลายชั้น
+CD-009,code,code,single,1,hc127 c กว้างเท่าไหร่,,HC127 C,,,,,,,code,พิมพ์เล็กมีช่องว่าง
+CD-010,code,code,single,1,MD508 NS แรงดึงเท่าไหร่,,MD508 NS,,,,,,,code,รหัสปกติ
+CD-011,code,code,single,1,HD635 C กว้างเท่าไหร่,,HD635 C,,,,,,,code,รุ่นเดี่ยว
+CD-012,code,code,single,1,MP80 C กับ MD254 RR ต่างกันยังไง,,MP80 C,,,,,,,code,สองรหัสในประโยคเดียว
+WD-S01,width_silent,silent,single,1,HC127 C กว้างเท่าไหร่,,HC127 C | 254,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_silent,HC127 C: เล่มกับตารางไม่ตรง ต้องไม่ประกาศขั้นมาตรฐาน
+WD-S02,width_silent,silent,single,1,MD127 GAP50% กว้างเท่าไหร่,,MD127 GAP50% | 203.2,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_silent,MD127 GAP50%: เล่มกับตารางไม่ตรง ต้องไม่ประกาศขั้นมาตรฐาน
+WD-S03,width_silent,silent,single,1,XP254 EVO FLT กว้างเท่าไหร่,,XP254 EVO FLT | 76.2,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_silent,XP254 EVO FLT: เล่มกับตารางไม่ตรง ต้องไม่ประกาศขั้นมาตรฐาน
+WD-S04,width_silent,silent,single,1,XP254 GT กว้างเท่าไหร่,,XP254 GT | 152.4,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_silent,XP254 GT: เล่มกับตารางไม่ตรง ต้องไม่ประกาศขั้นมาตรฐาน
+WD-S05,width_silent,silent,single,1,EC508 TR กว้างเท่าไหร่,,EC508 TR | 508,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_silent,EC508 TR: เล่มกับตารางไม่ตรง ต้องไม่ประกาศขั้นมาตรฐาน
+WD-S06,width_silent,silent,single,1,HC508 C กว้างเท่าไหร่,,HC508 C | 152.4,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_silent,HC508 C: เล่มกับตารางไม่ตรง ต้องไม่ประกาศขั้นมาตรฐาน
+WD-S07,width_silent,silent,single,1,HC508 MR กว้างเท่าไหร่,,HC508 MR | 152.4,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_silent,HC508 MR: เล่มกับตารางไม่ตรง ต้องไม่ประกาศขั้นมาตรฐาน
+WD-S08,width_silent,silent,single,1,HC508 NT กว้างเท่าไหร่,,HC508 NT | 304.8,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_silent,HC508 NT: เล่มกับตารางไม่ตรง ต้องไม่ประกาศขั้นมาตรฐาน
+WD-S09,width_silent,silent,single,1,HC508 PR22 กว้างเท่าไหร่,,HC508 PR22 | 152.4,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_silent,HC508 PR22: เล่มกับตารางไม่ตรง ต้องไม่ประกาศขั้นมาตรฐาน
+WD-S10,width_silent,silent,single,1,XP254 EVO CR กว้างเท่าไหร่,,XP254 EVO CR | 76.2,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_silent,XP254 EVO CR: เล่มกับตารางไม่ตรง ต้องไม่ประกาศขั้นมาตรฐาน
+WD-N01,width_silent,silent,single,1,HD635 C กว้างเท่าไหร่,,HD635 C | 100,,,,,,,width_silent,HD635 C: ไม่มีค่าเพิ่มทีละในข้อมูล ต้องไม่ประกาศ
+WD-P01,width_shown,shown,single,1,MP80 C กว้างเท่าไหร่,,MP80 C | 101.6,,,,,,,width_shown,MP80 C: ตรงกับเล่ม ต้องแสดง 101.6
+WD-P02,width_shown,shown,single,1,MP80 FG กว้างเท่าไหร่,,MP80 FG | 101.6,,,,,,,width_shown,MP80 FG: ตรงกับเล่ม ต้องแสดง 101.6
+WD-P03,width_shown,shown,single,1,MP80 NP กว้างเท่าไหร่,,MP80 NP | 101.6,,,,,,,width_shown,MP80 NP: ตรงกับเล่ม ต้องแสดง 101.6
+WD-P04,width_shown,shown,single,1,MP80 NS กว้างเท่าไหร่,,MP80 NS | 101.6,,,,,,,width_shown,MP80 NS: ตรงกับเล่ม ต้องแสดง 101.6
+WD-P05,width_shown,shown,single,1,SM127 C กว้างเท่าไหร่,,SM127 C | 76.2 | 152.4,,,,,,,width_shown,SM127 C: ตรงกับเล่ม ต้องแสดง 76.2
+WD-P06,width_shown,shown,single,1,SM127 CRV กว้างเท่าไหร่,,SM127 CRV | 76.2 | 152.4,,,,,,,width_shown,SM127 CRV: ตรงกับเล่ม ต้องแสดง 76.2
+WD-P07,width_shown,shown,single,1,SM127 FG กว้างเท่าไหร่,,SM127 FG | 76.2 | 152.4,,,,,,,width_shown,SM127 FG: ตรงกับเล่ม ต้องแสดง 76.2
+WD-P08,width_shown,shown,single,1,SM127 FG-GT กว้างเท่าไหร่,,SM127 FG-GT | 76.2 | 152.4,,,,,,,width_shown,SM127 FG-GT: ตรงกับเล่ม ต้องแสดง 76.2
+WD-P09,width_shown,shown,single,1,EC127 C กว้างเท่าไหร่,,EC127 C | 50,,,,,,,width_shown,EC127 C: ตรงกับเล่ม ต้องแสดง 50
+WD-P10,width_shown,shown,single,1,EC127 FG กว้างเท่าไหร่,,EC127 FG | 50,,,,,,,width_shown,EC127 FG: ตรงกับเล่ม ต้องแสดง 50
+WD-M01,width_min,min,single,1,HC127 C กว้างเท่าไหร่,,HC127 C | 254,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_min,HC127 C: บอกค่าต่ำสุดได้ แต่ห้ามรับปาก
+WD-M02,width_min,min,single,1,MD127 GAP50% กว้างเท่าไหร่,,MD127 GAP50% | 203.2,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_min,MD127 GAP50%: บอกค่าต่ำสุดได้ แต่ห้ามรับปาก
+WD-M03,width_min,min,single,1,EC254 R กว้างเท่าไหร่,,EC254 R | 200,,,,,,,width_min,EC254 R: บอกค่าต่ำสุดได้ แต่ห้ามรับปาก
+WD-M04,width_min,min,single,1,EC254 R-GT กว้างเท่าไหร่,,EC254 R-GT | 200,,,,,,,width_min,EC254 R-GT: บอกค่าต่ำสุดได้ แต่ห้ามรับปาก
+WD-M05,width_min,min,single,1,EC254 R-TABE กว้างเท่าไหร่,,EC254 R-TABE | 200,,,,,,,width_min,EC254 R-TABE: บอกค่าต่ำสุดได้ แต่ห้ามรับปาก
+WD-M06,width_min,min,single,1,EC254 R-TABM กว้างเท่าไหร่,,EC254 R-TABM | 200,,,,,,,width_min,EC254 R-TABM: บอกค่าต่ำสุดได้ แต่ห้ามรับปาก
+WD-M07,width_min,min,single,1,EC254 TR กว้างเท่าไหร่,,EC254 TR | 250,,,,,,,width_min,EC254 TR: บอกค่าต่ำสุดได้ แต่ห้ามรับปาก
+WD-M08,width_min,min,single,1,EC254 TR-TAB กว้างเท่าไหร่,,EC254 TR-TAB | 250,,,,,,,width_min,EC254 TR-TAB: บอกค่าต่ำสุดได้ แต่ห้ามรับปาก
+WD-F01,width_pinned,pinned,single,1,MD254 RR กว้างเท่าไหร่,,MD254 RR | 150,,,,,,,width_pinned,MD254 RR: เล่มพิมพ์ 50 มม. ต้องแสดงได้ (ต้องมี notes ในข้อมูล)
+WD-F02,width_pinned,pinned,single,1,SM127 C กว้างเท่าไหร่,,SM127 C | 76.2 | 152.4,,,,,,,width_pinned,SM127 C: เล่มพิมพ์ 76.2 มม. ต้องแสดงได้ (ต้องมี notes ในข้อมูล)
+WD-F03,width_pinned,pinned,single,1,XP254 C กว้างเท่าไหร่,,XP254 C | 76.2,,,,,,,width_pinned,XP254 C: เล่มพิมพ์ 76.2 มม. ต้องแสดงได้ (ต้องมี notes ในข้อมูล)
+WD-F04,width_pinned,pinned,single,1,MD254 GT กว้างเท่าไหร่,,MD254 GT | 50,,,,,,,width_pinned,MD254 GT: เล่มพิมพ์ 50 มม. ต้องแสดงได้ (ต้องมี notes ในข้อมูล)
+WD-F05,width_pinned,pinned,single,1,HC127 C กว้างเท่าไหร่,,HC127 C | 254,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_pinned,HC127 C: เล่มพิมพ์ 101.6 แต่ตารางก้าว 50.8 ต้องไม่ประกาศ
+WD-I01,width_inch,inch,single,1,HC127 C กว้างกี่นิ้ว,,HC127 C | 254,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_inch,นิ้วของ HC127 C
+WD-I02,width_inch,inch,single,1,MP80 C กว้างกี่นิ้ว,,MP80 C | 101.6,นิ้ว | inch,,,,,,width_inch,นิ้วของ MP80 C
+WD-I03,width_inch,inch,single,1,EC254 R กว้างกี่นิ้ว,,EC254 R | 200,นิ้ว | inch,,,,,,width_inch,นิ้วของ EC254 R
+WD-X01,width_special,special,single,1,HC127 C ขอกว้าง 150 มม. ได้ไหม,,HC127 C | 254,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_special,ขนาดนอกมาตรฐาน ต้องส่งฝ่ายขาย
+WD-X02,width_special,special,single,1,EC254 C กว้าง 76.2 มม. ได้ไหม,,EC254 C | 152.4,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_special,ตารางแคบกว่าค่าต่ำสุด ต้องเตือน
+WD-X03,width_special,special,single,1,XP254 EVO CR กว้างเท่าไหร่,,XP254 EVO CR | 76.2,ยืนยัน | ไม่ตรงกัน | ไม่ได้ระบุ,,,,,,width_special,กลุ่ม disputed
+TP-001,temp,temp,single,1,MD254 RR ทนร้อนกี่องศา,,,เปียก | แห้ง,,True,,,,temp,ต้องถามเปียก/แห้งก่อน
+TP-002,temp,temp,multi,1,MD254 RR ทนร้อนกี่องศา,,,เปียก | แห้ง,,True,,,,temp,PPH ต้องตอบ 93 พร้อมคำเตือน
+TP-002,temp,temp,multi,2,ไลน์แห้ง,,MD254 RR | 93 | 105,ยังไม่ยืนยัน | ยืนยัน,,,,,,temp,
+TP-003,temp,temp,multi,1,MD254 RR ทนร้อนกี่องศา,,,เปียก | แห้ง,,True,,,,temp,PP ของรุ่นเดียวกัน 105
+TP-003,temp,temp,multi,2,ไลน์แห้ง,,MD254 RR | 93 | 105,ยังไม่ยืนยัน | ยืนยัน,,,,,,temp,
+TP-004,temp,temp,multi,1,MD254 RR ทนร้อนกี่องศา,,,เปียก | แห้ง,,True,,,,temp,°F คำนวณจาก °C
+TP-004,temp,temp,multi,2,ไลน์แห้ง,,MD254 RR | 93 | 105,ยังไม่ยืนยัน | ยืนยัน,,,,,,temp,
+TP-005,temp,temp,multi,1,MP80 C ทนร้อนกี่องศา,,,เปียก | แห้ง,,True,,,,temp,POM เปียก 60
+TP-005,temp,temp,multi,2,ไลน์เปียก,,MP80 C | 60,,,,,,,temp,
+TP-006,temp,temp,multi,1,MP80 C ทนร้อนกี่องศา,,,เปียก | แห้ง,,True,,,,temp,POM แห้ง 93
+TP-006,temp,temp,multi,2,ไลน์แห้ง,,MP80 C | 93,,,,,,,temp,
+TP-007,temp,temp,single,1,SM254 FG50% เกรด PA6 ใช้ไลน์เปียกได้ไหม,,SM254 FG50%,ไม่แนะนำ | ไม่ควร,,,,,,temp,PA6 ห้ามใช้ไลน์เปียก
+TP-008,temp,temp,single,1,HC508 C-MTW ไลน์เปียกทนได้กี่องศา,,HC508 C-MTW | 60 | 105 | 58,,,,,,,temp,ICR เปียก 58
+TP-009,temp,temp,single,1,EC254 C ไลน์แห้ง ทนเย็นกี่องศา,,EC254 C | -35 | -40 | 5,,,,,,,temp,PE แห้ง -40
+TP-010,temp,temp,single,1,EC254 C ไลน์แห้ง ทนเย็นกี่องศา,,EC254 C | -35 | -40 | 5,,,,,,,temp,-40 °C = -40 °F
+TP-011,temp,temp,multi,1,HP508 RR ทนร้อนกี่องศา,,,เปียก | แห้ง,,True,,,,temp,HP508 RR: เล่ม 118 vs ทะเบียน 115 → ใช้ 115 พร้อมคำเตือน
+TP-011,temp,temp,multi,2,ไลน์แห้ง,,HP508 RR | 93 | 115,,,,,,,temp,
+TP-012,temp,temp,multi,1,HC508 PR22 ทนร้อนกี่องศา,,,เปียก | แห้ง,,True,,,,temp,PPH ของ HC508 PR22 = 110
+TP-012,temp,temp,multi,2,ไลน์แห้ง,,HC508 PR22 | 93 | 65 | 105,,,,,,,temp,
+TP-013,temp,temp,single,1,EC127 GT ทนร้อนกี่องศา,,EC127 GT | 60,,,,,,,temp,รุ่นไม่มี slot ตอบได้เลย
+TP-014,temp,temp,single,1,MD254 RR ใช้ที่ 100 องศา ไลน์แห้ง ได้ไหม,,MD254 RR | 105,,,,,,,temp,PPH ถูกตัดที่ 100 แต่ต้องเตือน
+TP-015,temp,temp,single,1,MD254 RR ใช้ที่ 100 องศา ไลน์แห้ง ได้ไหม,,MD254 RR | 105,,,,,,,temp,ที่ 100 °C เหลือแต่ PP
+TP-016,temp,temp,single,1,MP80 C ใช้ที่ 80 องศา ไลน์เปียก ได้ไหม,,,,,,,,,temp,80 °C เปียก ต้องตัดหมด
+TP-017,temp,temp,multi,1,EC127 C ทนร้อนกี่องศา,,,เปียก | แห้ง,,True,,,,temp,PP แห้ง 105
+TP-017,temp,temp,multi,2,แห้ง,,EC127 C | 93 | 105 | 65,,,,,,,temp,
+TP-018,temp,temp,multi,1,MD508 C ทนร้อนกี่องศา,,,เปียก | แห้ง,,True,,,,temp,PE/พิน POM เปียก → พินเป็นตัวจำกัดที่ 60
+TP-018,temp,temp,multi,2,ไลน์เปียก,,MD508 C | 60 | 105,,,,,,,temp,
+TP-019,temp,temp,multi,1,MD254 RR ทนร้อนกี่องศา,,,เปียก | แห้ง,,True,,,,temp,PPH เปียกก็ต้องเตือนเหมือนกัน
+TP-019,temp,temp,multi,2,ไลน์เปียก,,MD254 RR | 60 | 105 | 93,ยังไม่ยืนยัน | ยืนยัน,,,,,,temp,
+TP-020,temp,temp,multi,1,HC152 FG ทนร้อนกี่องศา,,,เปียก | แห้ง,,True,,,,temp,PE แห้ง 65
+TP-020,temp,temp,multi,2,แห้ง,,HC152 FG | 93 | 105 | 65,,,,,,,temp,
+ST-C01,curve,curve,single,1,EC254 R รับแรงดึงเท่าไหร่,,,ตรง | โค้ง,,True,,,,curve,EC254 R วิ่งโค้งได้ ต้องถามรูปไลน์ก่อน
+ST-C02,curve,curve,single,1,EC254 R-GT รับแรงดึงเท่าไหร่,,,ตรง | โค้ง,,True,,,,curve,EC254 R-GT วิ่งโค้งได้ ต้องถามรูปไลน์ก่อน
+ST-C03,curve,curve,single,1,EC254 R-TABE รับแรงดึงเท่าไหร่,,,ตรง | โค้ง,,True,,,,curve,EC254 R-TABE วิ่งโค้งได้ ต้องถามรูปไลน์ก่อน
+ST-C04,curve,curve,single,1,EC254 R-TABM รับแรงดึงเท่าไหร่,,,ตรง | โค้ง,,True,,,,curve,EC254 R-TABM วิ่งโค้งได้ ต้องถามรูปไลน์ก่อน
+ST-C05,curve,curve,single,1,EC254 TR รับแรงดึงเท่าไหร่,,,ตรง | โค้ง,,True,,,,curve,EC254 TR วิ่งโค้งได้ ต้องถามรูปไลน์ก่อน
+ST-C06,curve,curve,single,1,EC254 TR-TAB รับแรงดึงเท่าไหร่,,,ตรง | โค้ง,,True,,,,curve,EC254 TR-TAB วิ่งโค้งได้ ต้องถามรูปไลน์ก่อน
+ST-001,strength,strength,multi,1,EC254 R รับแรงดึงเท่าไหร่,,,ตรง | โค้ง,,True,,,,strength,ไลน์โค้ง → ใช้ค่าโค้ง
+ST-001,strength,strength,multi,2,ไลน์มีโค้ง,,EC254 R | 1500 | 1000,,,,,,,strength,
+ST-002,strength,strength,multi,1,EC254 R รับแรงดึงเท่าไหร่,,,ตรง | โค้ง,,True,,,,strength,ไลน์ตรง → ตัดค่าโค้งทิ้ง
+ST-002,strength,strength,multi,2,ไลน์ตรง,,EC254 R | 27000 | 19000,,,,,,,strength,
+ST-003,strength,strength,single,1,MD508 C รับแรงดึงเท่าไหร่,,MD508 C | 60000 | 35000 | 37400,,,,,,,strength,MD508 C POM 60000 N/m
+ST-004,strength,strength,single,1,HD635 C รับแรงดึงเท่าไหร่,,HD635 C | 100000,,,,,,,strength,HD635 C 100000 N/m
+MT-001,material,material,single,1,SM127 FG มีเกรด PE ไหม,,SM127 FG,ไม่มี | ไม่ได้ผลิต,,,,,,material,แนะนำไว้แต่ไม่ผลิต
+MT-002,material,material,single,1,HC127 C มีเกรด PP ไหม,,HC127 C,ไม่มี | ไม่ได้ผลิต,,,,,,material,HC127 C ไม่มี PP
+MT-003,material,material,single,1,MP80 C ทำจากวัสดุอะไร,,MP80 C,,,,,,,material,MP80 C มี POM อย่างเดียว
+MT-004,material,material,single,1,HD635 C ทำจากวัสดุอะไร,,HD635 C,,,,,,,material,HD635 C ใช้ POM-NL
+MT-005,material,material,single,1,MD254 GAP48%-EHT ทำจากวัสดุอะไร,,MD254 GAP48%-EHT,,,,,,,material,เกรด EHT
+MT-006,material,material,single,1,XP254 C ทำจากวัสดุอะไร,,XP254 C,,,,,,,material,ตอบวัสดุได้
+MT-007,material,material,single,1,MD508 FG-RT ทำจากวัสดุอะไร,,MD508 FG-RT,,,,,,,material,รุ่นผิวลูกกลิ้ง
+MT-008,material,material,single,1,SM254 FG50% ทำจากวัสดุอะไร,,SM254 FG50%,,,,,,,material,PA6
+ES-001,escalate,escalate,single,1,MP80 C ราคาเท่าไหร่,,ฝ่ายขาย,,,,,,,escalate,ราคา
+ES-002,escalate,escalate,single,1,HC508 C lead time กี่วัน,,ฝ่ายขาย,,,,,,,escalate,lead time
+ES-003,escalate,escalate,single,1,MP80 C สั่งขั้นต่ำเท่าไหร่,,ฝ่ายขาย,,,,,,,escalate,MOQ
+ES-004,escalate,escalate,single,1,MD254 RR มีสต็อกไหม,,ฝ่ายขาย,,,,,,,escalate,สต็อก
+ES-005,escalate,escalate,single,1,สเตอร์ของ MP80 C รูเพลาขนาดเท่าไหร่,,ฝ่ายขาย,,,,,,,escalate,ขนาดเพลา
+ES-006,escalate,escalate,single,1,MP80 C มีอะไหล่ขายไหม,,ฝ่ายขาย,,,,,,,escalate,อะไหล่
+ES-007,escalate,escalate,single,1,MP80 C กว้างสุดเท่าไหร่ แล้วราคาเมตรละเท่าไหร่,,MP80 C,,,,,,,escalate,คำถามผสม: ตอบสเปก + ต่อท้ายฝ่ายขาย
+ES-008,escalate,escalate,single,1,MD508 C ราคาเท่าไหร่ แรงดึงเท่าไหร่,,MD508 C,,,,,,,escalate,ผสม: แรงดึง + ราคา
+ES-009,escalate,escalate,single,1,MP80 C ราคาเท่าไหร่ ทนร้อนกี่องศา,,,เปียก | แห้ง,,True,,,,escalate,ผสม: ถามกลับ + ฝ่ายขาย
+ES-010,escalate,escalate,single,1,HC127 C ส่งของกี่วัน,,ฝ่ายขาย,,,,,,,escalate,lead time อีกสำนวน
+EX-001,explore,explore,single,1,ต้องการสายพานรับแรงดึงอย่างน้อย 50000 N/m,,HD635 C | MD508 C | MD508 NS,,,,,,,explore,แรงดึง ≥ 50000 → 3 รุ่น
+EX-002,explore,explore,single,1,สายพาน Modutech ผิวลูกกลิ้งมีรุ่นไหนบ้าง,,MD254 C-RT | MD254 FG-RT | EC508 C-RT,,,,,,,explore,ผิวลูกกลิ้ง
+EX-003,explore,explore,single,1,สายพาน Modutech ที่ใช้ก้านสแตนเลสมีรุ่นไหนบ้าง,,MD254 GAP48%-EHT | HD635 C,,,,,,,explore,พินสแตนเลส → 2 รุ่น
+EX-004,explore,explore,multi,1,มีสายพานพื้นที่เปิดอย่างน้อย 45% ไหม,,,Movex | Modutech,,True,,,,explore,open area ≥ 45% (ถามแบรนด์ก่อน)
+EX-004,explore,explore,multi,2,Modutech,,MD127 GAP50% | SM254 FG50% | MD254 GAP48%,,,,,,,explore,
+EX-005,explore,explore,multi,1,มีสายพานพิทช์ไม่เกิน 10 มม. ไหม,,,Movex | Modutech,,True,,,,explore,พิทช์ ≤ 10
+EX-005,explore,explore,multi,2,Modutech,,MP80 C | MP80 FG | MP80 NP,,,,,,,explore,
+EX-006,explore,explore,multi,1,ต้องการสายพานน้ำหนักไม่เกิน 5 kg/m2,,,Movex | Modutech,,True,,,,explore,น้ำหนัก ≤ 5
+EX-006,explore,explore,multi,2,Modutech,,MD127 GAP50% | SM254 FG50% | SM127 FG,,,,,,,explore,
+EX-007,explore,explore,single,1,สายพานผิว Flush Grid มีรุ่นไหนบ้าง,,MP80 FG | SM127 FG | EC127 FG,,,,,,,explore,ค้นตามผิว
+EX-008,explore,explore,single,1,มีสายพานรับแรงดึงเกิน 200000 N/m ไหม,,,ไม่มี | ไม่พบ,,,,,,explore,ไม่มีจริง ต้องตอบว่าไม่มี
+EX-009,explore,explore,single,1,สายพานผิวกันลื่นมีรุ่นไหนบ้าง,,MP80 NS | XP254 EVO CR | MD508 NS,,,,,,,explore,Non Slip
+EX-010,explore,explore,single,1,ต้องการสายพานรับแรงดึงอย่างน้อย 50000 N/m,,HD635 C | MD508 C | MD508 NS,,,,,,,explore,ต้องบอกว่าค้นครบทั้งฐาน
+AP-001,application,application,single,1,สายพานสำหรับไลน์ตัดแต่งเลาะกระดูกไก่ ใช้รุ่นไหนดี,,EC254 C | EC508 C | EC508 PR11,,,,,,,application,เลาะกระดูกไก่
+AP-002,application,application,single,1,สายพานทางเข้าเตาอบขนมปัง ใช้รุ่นไหนได้บ้าง,,EC127 FG | MD127 GAP50% | MD254 GAP48%,,,,,,,application,เตาอบเบเกอรี่
+AP-003,application,application,single,1,MP80 C ใช้กับอุตสาหกรรมอะไรบ้าง,,MP80 C,,,,,,,application,รุ่นเดียว หลายอุตสาหกรรม
+AP-004,application,application,single,1,สายพานสำหรับไลน์แล่ปลา,,,,,,,,,application,อาหารทะเล
+AP-005,application,application,single,1,สายพานสำหรับล้างผัก,,EC254 PR16 | EC508 FG | EC508 FG-NT,,,,,,,application,ผักผลไม้
+AP-006,application,application,single,1,สายพานสำหรับลำเลียงกล่องลูกฟูก,,EC127 C | EC127 FG | EC127 GT,,,,,,,application,กล่องลูกฟูก
+AP-007,application,application,single,1,สายพานเข้าเครื่องตรวจจับโลหะ,,EC127 C | EC127 FG | EC254 C,,,,,,,application,ตรวจจับโลหะ
+AP-008,application,application,single,1,MP80C ใช้กับเบเกอรี่ได้ไหม,,MP80 C,,,,,,,application,ถามเจาะจงรุ่น+อุตสาหกรรม

@@ -1,0 +1,725 @@
+{
+ "module": "chatbot_v5",
+ "testcases": "testcases_graph_relations.csv",
+ "total_turns": 33,
+ "graded": 33,
+ "passed": 30,
+ "failed": 3,
+ "skipped_no_image": 0,
+ "turns_with_image": 0,
+ "errors": 0,
+ "seconds": 137.6,
+ "by_category": {
+  "graph_blocked": "3/3",
+  "graph_compatible": "17/20",
+  "graph_material": "5/5",
+  "graph_series": "5/5"
+ },
+ "by_check": {
+  "answer_has_required": 3
+ },
+ "results": [
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพาน Modutech รุ่น **EC127 C** มีสเตอร์ที่รองรับตามจำนวนฟันดังนี้ครับ:\n\n### จำนวนฟันที่มีให้เลือก\n* **19, 24, 28, 30 และ 36 ฟัน**\n* วัสดุสเตอร์: **PA** (Polyamide)\n\n---\n\n### รหัสสเตอร์ (อนุมานตามซีรีส์)\n*(หมายเหตุ: รหัสสเตอร์เป็นการอนุมานจากข้อมูลซีรีส์ EC127 รบกวนยืนยันความถูกต้องกับฝ่ายขายอีกครั้งครับ)*\n\n* **แบบรูเพลาเหลี่ยม (Square Bore):**\n  * 19 ฟัน: `EC127SQZ19*PA`\n  * 24 ฟัน: `EC127SQZ24*PA`\n  * 28 ฟัน: `EC127SQZ28*PA`\n  * 30 ฟัน: `EC127SQZ30*PA`\n  * 36 ฟัน: `EC127SQZ36*PA`\n\n* **แบบรูเพลากลม (Round Bore):**\n  * 19 ฟัน: `EC127SRZ19*PA`\n  * 24 ฟัน: `EC127SRZ24*PA`\n  * 28 ฟัน: `EC127SRZ28*PA`\n  * 30 ฟัน: `EC127SRZ30*PA`\n  * 36 ฟัน: `EC127SRZ36*PA`\n\n---\n\n**ข้อแนะนำเพิ่มเติม:** สำหรับขนาดเส้นผ่านศูนย์กลางสเตอร์และขนาดรูเพลาจริง (Bore Size) ที่ต้องการใช้งาน ต้องรบกวนติดต่อขอข้อมูลและยืนยันกับทางฝ่ายขายโดยตรงครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-F01",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "EC127 C ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 6.4
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพานรุ่น **EC254 C** มีสเตอร์ที่รองรับจำนวนฟัน **8, 10, 12, 15 และ 18 ฟัน** (วัสดุ POM) โดยมีรูปแบบรหัสสเตอร์ดังนี้ครับ\n\n**1. เพลาสี่เหลี่ยม (Square Bore - SQ):**\n* 8 ฟัน: `EC254SQZ8*POM`\n* 10 ฟัน: `EC254SQZ10*POM`\n* 12 ฟัน: `EC254SQZ12*POM`\n* 15 ฟัน: `EC254SQZ15*POM`\n* 18 ฟัน: `EC254SQZ18*POM`\n\n**2. เพลากลม (Round Bore - SR):**\n* 8 ฟัน: `EC254SRZ8*POM`\n* 10 ฟัน: `EC254SRZ10*POM`\n* 12 ฟัน: `EC254SRZ12*POM`\n* 15 ฟัน: `EC254SRZ15*POM`\n* 18 ฟัน: `EC254SRZ18*POM`\n\n*(หมายเหตุ: รหัสสเตอร์ข้างต้นเป็นการอนุมานตามซีรีส์ EC254 รบกวนยืนยันรหัสที่ถูกต้องกับฝ่ายขายก่อนสั่งซื้อครับ)*\n\nสำหรับรายละเอียดขนาดสเตอร์ภายนอก และขนาดรูเพลาที่ต้องการใช้งาน สามารถติดต่อขอข้อมูลและตรวจสอบสเปกเพิ่มเติมกับทางฝ่ายขายได้เลยครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-F02",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "EC254 C ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 4.8
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพาน Modutech รุ่น **EC254 R** ในแคตตาล็อกระบุจำนวนฟันของสเตอร์ที่ใช้งานร่วมกันได้ดังนี้ครับ\n\n**จำนวนฟันที่รองรับ:**\n* 8, 10, 12, 15, 16, 18 และ 20 ฟัน\n\n**รหัสสเตอร์ (เป็นรหัสที่อนุมานตามซีรีส์ MD-TR254 วัสดุ POM):**\n* **แบบเพลาสี่เหลี่ยม (Square Bore):**\n  * MD-TR254SQZ8*POM (8 ฟัน)\n  * MD-TR254SQZ10*POM (10 ฟัน)\n  * MD-TR254SQZ12*POM (12 ฟัน)\n  * MD-TR254SQZ15*POM (15 ฟัน)\n  * MD-TR254SQZ16*POM (16 ฟัน)\n  * MD-TR254SQZ18*POM (18 ฟัน)\n  * MD-TR254SQZ20*POM (20 ฟัน)\n* **แบบเพลากลม (Round Bore):**\n  * MD-TR254SRZ8*POM (8 ฟัน)\n  * MD-TR254SRZ10*POM (10 ฟัน)\n  * MD-TR254SRZ12*POM (12 ฟัน)\n  * MD-TR254SRZ15*POM (15 ฟัน)\n  * MD-TR254SRZ16*POM (16 ฟัน)\n  * MD-TR254SRZ18*POM (18 ฟัน)\n  * MD-TR254SRZ20*POM (20 ฟัน)\n\n**ข้อควรทราบ:**\n1. รหัสสเตอร์ข้างต้นได้มาจากการอนุมานตามความเชื่อมโยงของซีรีส์และจำนวนฟัน รบกวนยืนยันความถูกต้องของรหัสกับฝ่ายขายอีกครั้งครับ\n2. รายละเอียดขนาดรูเพลาและขนาดมิติของสเตอร์ ต้องรบกวนติดต่อขอข้อมูลยืนยันจากฝ่ายขายโดยตรงครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-F03",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "EC254 R ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 6.5
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพาน Modutech รุ่น **EC508 C** มีรายละเอียดสเตอร์ขับ (Sprocket) ดังนี้ครับ\n\n### 1. จำนวนฟันที่มีให้เลือกใช้งาน\n* **6, 8, 10, 12 และ 16 ฟัน**\n\n---\n\n### 2. รหัสสเตอร์ที่ใช้งานร่วมกันได้\n*(หมายเหตุ: รหัสสเตอร์นี้เป็นค่าที่อนุมานจากซีรีส์สายพาน EC-HC508 กรุณายืนยันรหัสสินค้ากับทางฝ่ายขายอีกครั้งครับ)*\n\n* **เพลาสี่เหลี่ยม (Square Bore):**\n  * 6 ฟัน: `EC-HC508SQZ6*PA`\n  * 8 ฟัน: `EC-HC508SQZ8*PA`\n  * 10 ฟัน: `EC-HC508SQZ10*PA`\n  * 12 ฟัน: `EC-HC508SQZ12*PA`\n  * 16 ฟัน: `EC-HC508SQZ16*PA`\n* **เพลากลม (Round Bore):**\n  * 6 ฟัน: `EC-HC508SRZ6*PA`\n  * 8 ฟัน: `EC-HC508SRZ8*PA`\n  * 10 ฟัน: `EC-HC508SRZ10*PA`\n  * 12 ฟัน: `EC-HC508SRZ12*PA`\n\n*(วัสดุสเตอร์ระบุตามรหัสคือ PA หรือโพลีอะไมด์)*\n\n---\n\n**ข้อแนะนำเพิ่มเติม:**  \nสำหรับขนาดรูเพลา (Bore size) และขนาดเส้นผ่านศูนย์กลางสเตอร์อย่างละเอียด จะต้องให้ทางฝ่ายขายเป็นผู้ตรวจสอบและยืนยันข้อมูลเพิ่มเติมให้ครับ หากลูกค้ามีขนาดเพลาเดิมอยู่แล้ว สามารถแจ้งเพื่อช่วยประสานงานตรวจสอบได้เลยครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-F04",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "EC508 C ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 5.5
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพาน **HC152 C** มีสเตอร์ที่รองรับตามข้อมูลซีรีส์ดังนี้ครับ:\n\n### จำนวนฟันที่มีให้เลือก\n* **12, 16, 20, 24 และ 32 ฟัน**\n\n### รหัสสเตอร์ (วัสดุ POM)\n* **แบบเพลาสี่เหลี่ยม (Square Bore):**\n  * 12 ฟัน: `HC152SQZ12*POM`\n  * 16 ฟัน: `HC152SQZ16*POM`\n  * 20 ฟัน: `HC152SQZ20*POM`\n  * 24 ฟัน: `HC152SQZ24*POM`\n  * 32 ฟัน: `HC152SQZ32*POM`\n* **แบบเพลากลม (Round Bore):**\n  * 12 ฟัน: `HC152SRZ12*POM`\n  * 16 ฟัน: `HC152SRZ16*POM`\n  * 20 ฟัน: `HC152SRZ20*POM`\n  * 24 ฟัน: `HC152SRZ24*POM`\n  * 32 ฟัน: `HC152SRZ32*POM`\n\n*(หมายเหตุ: รหัสสเตอร์ข้างต้นเป็นการอนุมานตามระบบซีรีส์และจำนวนฟัน แนะนำให้ยืนยันรหัสสินค้า ขนาดมิติสเตอร์ และขนาดรูเพลาที่ต้องการใช้งานกับทางฝ่ายขายโดยตรงครับ)*",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-F05",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "HC152 C ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 4.5
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สายพาน Modutech รุ่น **HD635 C** มีสเตอร์รองรับจำนวนฟัน (**10, 13, 15 และ 20 ฟัน**) โดยมีรายละเอียดรหัสและประเภทเพลา (วัสดุ POM) ดังนี้ครับ\n\n**1. รูเพลาสี่เหลี่ยม (Square Bore):**\n* **10 ฟัน:** HD635SQZ10*POM\n* **13 ฟัน:** HD635SQZ13*POM\n* **15 ฟัน:** HD635SQZ15*POM\n* **20 ฟัน:** HD635SQZ20*POM\n\n**2. รูเพลากลม (Round Bore):**\n* **10 ฟัน:** HD635SRZ10*POM\n* **13 ฟัน:** HD635SRZ13*POM\n* **15 ฟัน:** HD635SRZ15*POM\n* **20 ฟัน:** HD635SRZ20*POM\n\n*หมายเหตุ: รหัสสเตอร์ข้างต้นเป็นการอนุมานตามซีรีส์และจำนวนฟันจากแคตตาล็อก แนะนำให้ยืนยันรหัสสินค้า รวมถึงขนาดสเตอร์และขนาดรูเพลาที่ต้องการใช้งานกับทางฝ่ายขายอีกครั้งครับ*",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-F06",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "HD635 C ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 4.6
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": false
+   },
+   "passed": false,
+   "reply": "ขอข้อมูลเพิ่มนิดนะครับ เพื่อแนะนำรุ่นได้ตรง\n• อุตสาหกรรม: เนื้อสัตว์ / สัตว์ปีก / อาหารทะเล / เบเกอรี่ / ผักผลไม้ / บรรจุภัณฑ์ / กล่องลูกฟูก\n• จุดที่ใช้งาน: เช่น ไลน์ตัดแต่ง เข้าเตาอบ เครื่องตรวจจับโลหะ\n• ไลน์เปียกหรือแห้ง และอุณหภูมิใช้งานโดยประมาณ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": null
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-R01",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "EC127SQZ19*PA ใช้กับสายพานรุ่นไหน",
+   "metrics": [],
+   "seconds": 0.0
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": false
+   },
+   "passed": false,
+   "reply": "ขอข้อมูลเพิ่มนิดนะครับ เพื่อแนะนำรุ่นได้ตรง\n• อุตสาหกรรม: เนื้อสัตว์ / สัตว์ปีก / อาหารทะเล / เบเกอรี่ / ผักผลไม้ / บรรจุภัณฑ์ / กล่องลูกฟูก\n• จุดที่ใช้งาน: เช่น ไลน์ตัดแต่ง เข้าเตาอบ เครื่องตรวจจับโลหะ\n• ไลน์เปียกหรือแห้ง และอุณหภูมิใช้งานโดยประมาณ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": null
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-R02",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "EC254SQZ10*POM ใช้กับสายพานรุ่นไหน",
+   "metrics": [],
+   "seconds": 0.0
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": false
+   },
+   "passed": false,
+   "reply": "ขอข้อมูลเพิ่มนิดนะครับ เพื่อแนะนำรุ่นได้ตรง\n• อุตสาหกรรม: เนื้อสัตว์ / สัตว์ปีก / อาหารทะเล / เบเกอรี่ / ผักผลไม้ / บรรจุภัณฑ์ / กล่องลูกฟูก\n• จุดที่ใช้งาน: เช่น ไลน์ตัดแต่ง เข้าเตาอบ เครื่องตรวจจับโลหะ\n• ไลน์เปียกหรือแห้ง และอุณหภูมิใช้งานโดยประมาณ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": null
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-R03",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "HD635SQZ10*POM ใช้กับสายพานรุ่นไหน",
+   "metrics": [],
+   "seconds": 0.0
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพานรุ่น **EC254 R-TABE** ในแคตตาล็อกไม่ได้ระบุข้อมูลสเตอร์ (Sprocket) ของรุ่นนี้ไว้ครับ \n\nในส่วนของรุ่นสเตอร์ ขนาดฟัน และขนาดรูเพลาที่เหมาะสมกับการใช้งาน แนะนำให้สอบถามและยืนยันกับทางฝ่ายขายโดยตรงครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-N01",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "EC254 R-TABE ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 2.3
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพานรุ่น **EC254 R-TABM** ในแคตตาล็อกไม่ได้ระบุข้อมูลสเตอร์ (Sprocket) ของรุ่นนี้ไว้ครับ \n\nแนะนำให้ติดต่อสอบถามข้อมูลกับทางฝ่ายขายโดยตรงครับ เพื่อยืนยันรหัสสเตอร์ ขนาดสเตอร์ และขนาดรูเพลาที่ถูกต้องกับการใช้งานครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-N02",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "EC254 R-TABM ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 2.2
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพานรุ่น **EC254 TR-TAB** ในเล่มแคตตาล็อกไม่ได้ระบุข้อมูลสเตอร์ของรุ่นนี้ไว้ครับ \n\nกรณีต้องการทราบรหัสสเตอร์ ขนาด หรือขนาดรูเพลาที่ถูกต้อง รบกวนสอบถามและยืนยันข้อมูลกับทางฝ่ายขายโดยตรงครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-N03",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "EC254 TR-TAB ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 2.4
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพานรุ่น **MD254 GAP48%-EHT** ในแคตตาล็อกไม่ได้ระบุข้อมูลรุ่นและขนาดของสเตอร์ (Sprocket) ไว้ครับ \n\nในส่วนของรหัสสเตอร์ ขนาดจำนวนฟัน และขนาดรูเพลาที่เหมาะสมกับการใช้งาน แนะนำให้ติดต่อสอบถามและยืนยันข้อมูลกับทางฝ่ายขายโดยตรงครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-N04",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "MD254 GAP48%-EHT ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 2.3
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพานรุ่น **MD508 C** ในแคตตาล็อกไม่ได้ระบุข้อมูลสเตอร์ (Sprocket) ของรุ่นนี้ไว้ครับ \n\nแนะนำให้ติดต่อสอบถามข้อมูลสเตอร์ รวมถึงขนาดและรูเพลากับทางฝ่ายขายโดยตรงเพื่อความถูกต้องครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-N05",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "MD508 C ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 1.9
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพานรุ่น **MD508 C-RT** ในแคตตาล็อกไม่ได้ระบุข้อมูลรุ่นสเตอร์ (Sprocket) ไว้ครับ \n\nแนะนำให้สอบถามและยืนยันข้อมูลสเตอร์ ขนาดฟัน และรูเพลา (Bore) ที่เหมาะสมกับลักษณะการติดตั้งร่วมกับฝ่ายขายหรือฝ่ายเทคนิคโดยตรงครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-N06",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "MD508 C-RT ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 2.4
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพานรุ่น **MD508 FG** ในแคตตาล็อกไม่ได้ระบุข้อมูลสเตอร์ (Sprocket) ของรุ่นนี้ไว้ครับ \n\nรายละเอียดรหัสสเตอร์ ขนาดฟัน และขนาดรูเพลา จำเป็นต้องสอบถามและยืนยันกับทางฝ่ายขายโดยตรงครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-N07",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "MD508 FG ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 2.1
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพานรุ่น **MD508 FG-RT** ในแคตตาล็อกไม่ได้ระบุข้อมูลสเตอร์ (Sprocket) ของรุ่นนี้ไว้ครับ \n\nรายละเอียดขนาดสเตอร์ รูเพลา หรือรหัสสเตอร์ที่เหมาะสมกับงาน รบกวนสอบถามและยืนยันกับทางฝ่ายขายโดยตรงครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-N08",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "MD508 FG-RT ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 2.2
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพานรุ่น **MD508 NS** ในแคตตาล็อกไม่ได้ระบุข้อมูลรุ่นสเตอร์ไว้ครับ \n\nกรณีนี้จำเป็นต้องสอบถามและยืนยันรายละเอียดกับทางฝ่ายขายโดยตรงครับ หากมีขนาดเพลา (Bore size) หรือจำนวนฟันสเตอร์ที่ต้องการใช้งาน สามารถแจ้งข้อมูลเพิ่มเติมเพื่อให้ประสานงานตรวจสอบได้ครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-N09",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "MD508 NS ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 2.9
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพานรุ่น **MD508 PR25** ในแคตตาล็อกไม่ได้ระบุข้อมูลรุ่นสเตอร์ไว้ครับ \n\nแนะนำให้สอบถามและยืนยันรายละเอียดสเปกสเตอร์ รวมถึงขนาดรูเพลา (Bore size) กับทางฝ่ายขายโดยตรงครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-N10",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "MD508 PR25 ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 2.2
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพานรุ่น **SM127 FG-GT** ในเล่มแคตตาล็อกไม่ได้ระบุข้อมูลรุ่นและขนาดของสเตอร์ (Sprocket) ไว้ครับ\n\nกรณีนี้รบกวนสอบถามและยืนยันสเปกของสเตอร์ รวมถึงขนาดรูเพลาที่ต้องการใช้งานกับทางฝ่ายขายโดยตรงครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-N11",
+   "turn": "1",
+   "category": "graph_compatible",
+   "query": "SM127 FG-GT ใช้สเตอร์ตัวไหน",
+   "metrics": [],
+   "seconds": 4.1
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "ในซีรีส์เดียวกัน (ระยะพิทช์ 12.7 มม. / 0.5 นิ้ว) มีรุ่นอื่นๆ ดังนี้ครับ:\n\n* **EC127 FG**\n* **EC127 GT**\n* **HC127 C**\n* **MD127 GAP50%**\n* **SM127 C**\n* **SM127 CRV**\n* **SM127 FG**\n* **SM127 FG-GT**\n\n**ข้อควรระวัง:** รุ่นในกลุ่มนี้ใช้ระยะพิทช์เดียวกันและสเตอร์ชุดเดียวกัน แต่ไม่สามารถสรุปว่าใช้ทดแทนกันได้ทันทีครับ เนื่องจากลักษณะผิวหน้า ความแข็งแรง สัดส่วนพื้นที่เปิด (Open Area) และช่วงอุณหภูมิการใช้งานของแต่ละรุ่นมีความแตกต่างกัน \n\nหากคุณลูกค้าสนใจรุ่นใดเป็นพิเศษ สามารถแจ้งเพื่อให้ผมดึงข้อมูลสเปกมาเปรียบเทียบตามลักษณะการใช้งานได้เลยครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SER-01",
+   "turn": "1",
+   "category": "graph_series",
+   "query": "EC127 C มีรุ่นอื่นในซีรีส์เดียวกันไหม",
+   "metrics": [],
+   "seconds": 3.8
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพาน **EC254 C** (ซีรีส์ระยะพิทช์ 1 นิ้ว / 25.4 มม.) มีรุ่นอื่นในซีรีส์เดียวกันที่ใช้ระยะพิทช์และสเตอร์ชุดเดียวกันในแคตตาล็อก ดังนี้ครับ:\n\n* EC254 GT\n* EC254 NT\n* EC254 PR16\n* HD254 C\n* MD254 C\n* MD254 C-RT\n* MD254 FG\n* MD254 FG-RT\n* MD254 GAP48%\n* MD254 GAP48%-EHT\n* MD254 GT\n* MD254 RR\n* SM254 FG50%\n* XP254 BT\n* XP254 C\n* XP254 EVO CR\n* XP254 EVO FLT\n* XP254 GT\n* XP254 PR22%\n\n**ข้อควรระวัง:** แม้จะอยู่ในซีรีส์เดียวกัน แต่ไม่สามารถสรุปว่าใช้ทดแทนกันในงานของลูกค้าได้ทันทีครับ เนื่องจากรูปแบบพื้นผิว ความแข็งแรง พื้นที่เปิด (Open Area) และช่วงอุณหภูมิการใช้งานมีความแตกต่างกันในแต่ละรุ่น \n\nหากลูกค้าสนใจรุ่นใดเป็นพิเศษ หรือมีลักษณะงานที่ต้องการนำไปใช้ สามารถแจ้งเพื่อตรวจสอบและเปรียบเทียบสเปกอย่างละเอียดได้เลยครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SER-02",
+   "turn": "1",
+   "category": "graph_series",
+   "query": "EC254 C มีรุ่นอื่นในซีรีส์เดียวกันไหม",
+   "metrics": [],
+   "seconds": 5.2
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพาน **EC254 R** ในแคตตาล็อกมีรุ่นอื่นที่จัดอยู่ในกลุ่มซีรีส์เดียวกัน (Sideflexing/Radius Modular Belt Series) ดังนี้ครับ:\n\n* **EC254 R-GT**\n* **EC254 R-TABE**\n* **EC254 R-TABM**\n* **EC254 TR**\n* **EC254 TR-TAB**\n* **EC381 R**\n* **EC508 R**\n* **EC508 TR**\n\n**ข้อควรระวัง:** \nรุ่นในกลุ่มซีรีส์เดียวกันนี้ไม่สามารถสรุปได้ว่าใช้งานทดแทนกันได้ทันทีในงานของลูกค้าครับ เนื่องจากประเภทผิว ความแข็งแรง พื้นที่เปิด (Open Area) และช่วงอุณหภูมิการใช้งานมีความแตกต่างกันในแต่ละรุ่น \n\nหากคุณลูกค้าสนใจรายละเอียดหรือต้องการเทียบสเปกของรุ่นใดเพิ่มเติม สามารถแจ้งได้เลยนะครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SER-03",
+   "turn": "1",
+   "category": "graph_series",
+   "query": "EC254 R มีรุ่นอื่นในซีรีส์เดียวกันไหม",
+   "metrics": [],
+   "seconds": 3.8
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "ในซีรีส์เดียวกัน (2 นิ้ว – 50.8 mm) มีรุ่นอื่น ๆ ดังนี้ครับ:\n\n* **EC508 C-RT**\n* **EC508 DT**\n* **EC508 FG**\n* **EC508 FG-NT**\n* **EC508 GT**\n* **EC508 NT**\n* **EC508 PR11**\n* **EC508 PR13**\n* **EC508 PR22%**\n* **HC508 C**\n* **HC508 C-MTW**\n* **HC508 MR**\n* **HC508 NT**\n* **HC508 PR22**\n* **HP508 RR**\n* **MD508 C**\n* **MD508 C-RT**\n* **MD508 FG**\n* **MD508 FG-RT**\n* **MD508 NS**\n* **MD508 PR25**\n\n**ข้อควรระวัง:** รุ่นในซีรีส์นี้ใช้ระยะพิทช์เดียวกันและสเตอร์ชุดเดียวกัน แต่ไม่สามารถสรุปว่าใช้ทดแทนกันได้ทันทีครับ เนื่องจากลักษณะผิวหน้า ความแข็งแรง พื้นที่เปิด (% Open Area) และช่วงอุณหภูมิการใช้งานของแต่ละรุ่นมีความแตกต่างกัน \n\nหากสนใจรุ่นใดเป็นพิเศษ สามารถแจ้งเพื่อให้ดึงสเปกมาเปรียบเทียบความเหมาะสมกับการใช้งานได้เลยครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SER-04",
+   "turn": "1",
+   "category": "graph_series",
+   "query": "EC508 C มีรุ่นอื่นในซีรีส์เดียวกันไหม",
+   "metrics": [],
+   "seconds": 4.6
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "ในซีรีส์เดียวกัน (0.6 inch – 15.24 mm) กับรุ่น HC152 C มีรุ่นอื่นดังนี้ครับ:\n\n* **HC152 FG** (ผิว Flush Grid แบบมีรูเปิดระบาย)\n* **HC152 FG-GT** (ผิว Grip Top สำหรับทางลาดชัน)\n\n**ข้อควรทราบ:**\nรุ่นเหล่านี้อยู่ในซีรีส์เดียวกัน ใช้ระยะพิทช์ (Pitch) และชุดสเตอร์เดียวกัน แต่**ไม่สามารถสรุปว่าใช้ทดแทนกันได้ทันที**ในงานของท่านครับ เนื่องจากลักษณะพื้นผิว, พื้นที่เปิด (Open Area), ความแข็งแรง และช่วงอุณหภูมิการใช้งานของแต่ละรุ่นมีความแตกต่างกัน \n\nหากสนใจนำรุ่นใดไปใช้งาน สามารถแจ้งลักษณะงานเพื่อดึงสเปกมาเปรียบเทียบเพิ่มเติมได้เลยครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SER-05",
+   "turn": "1",
+   "category": "graph_series",
+   "query": "HC152 C มีรุ่นอื่นในซีรีส์เดียวกันไหม",
+   "metrics": [],
+   "seconds": 3.9
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true
+   },
+   "passed": true,
+   "reply": "สายพาน Modutech รุ่น **EC127 C** มีวัสดุตัวสายพานและสลัก (Pin) ให้เลือกใช้ดังนี้ครับ\n\n1. **POM (พอลิอะซีทัล)** \n   - ตัวเลือกวัสดุสลัก: PA, POM, PP\n2. **PP (โพลิโพรพิลีน)** \n   - ตัวเลือกวัสดุสลัก: PP, POM\n3. **PE (โพลิเอทิลีน)** \n   - ตัวเลือกวัสดุสลัก: POM\n\nการเลือกใช้วัสดุจะขึ้นอยู่กับลักษณะการใช้งาน สารเคมี และช่วงอุณหภูมิของไลน์ลำเลียงครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": null
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "MAT-G01",
+   "turn": "1",
+   "category": "graph_material",
+   "query": "EC127 C ทำจากวัสดุอะไรได้บ้าง",
+   "metrics": [],
+   "seconds": 3.3
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true
+   },
+   "passed": true,
+   "reply": "สายพาน Modutech รุ่น **EC254 C** มีวัสดุตัวสายพานและสลัก (Pin) ให้เลือกใช้งานดังนี้ครับ\n\n**1. วัสดุตัวสายพาน (Belt Material):**\n* **POM (พอลิอะซีทัล):** เหมาะสำหรับงานที่ต้องการความแข็งแรงสูง ทนทานต่อการสึกหรอ\n* **PP (โพลิโพรพิลีน):** ทนสารเคมี น้ำหนักเบา\n* **PE (โพลิเอทิลีน):** เหมาะสำหรับงานอุณหภูมิต่ำ สภาวะเย็น หรือไลน์ตัดเฉือน (Slicing)\n\n**2. วัสดุสลัก (Pin Material):**\n* มีทั้ง **POM**, **PP** และ **PA** ขึ้นอยู่กับการจับคู่เกรดวัสดุและการใช้งานของแต่ละไลน์ลำเลียงครับ\n\nหากต้องการนำไปใช้งานกับสินค้าหรือสภาพแวดล้อมแบบใด สามารถแจ้งเพิ่มเติมเพื่อให้แนะนำเกรดวัสดุที่เหมาะสมได้เลยนะครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": null
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "MAT-G02",
+   "turn": "1",
+   "category": "graph_material",
+   "query": "EC254 C ทำจากวัสดุอะไรได้บ้าง",
+   "metrics": [],
+   "seconds": 4.0
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true
+   },
+   "passed": true,
+   "reply": "สายพาน Modutech รุ่น **EC254 R** มีวัสดุตัวสายพานและสลักยึด (Pin) ให้เลือกดังนี้ครับ:\n\n**1. วัสดุตัวสายพาน (Belt Material):**\n* **POM (พอลิอะซีทัล):** เหมาะสำหรับงานทั่วไป รวมถึงงานแช่แข็งและระบบสไปรัล (Spiral)\n* **PP (โพลิโพรพิลีน):** น้ำหนักเบา เหมาะสำหรับงานลำเลียงกล่องหรือภาชนะทั่วไป\n\n**2. วัสดุสลักยึด (Pin Material):**\n* **PA** \n* **POM**\n\n---\n\n**การจับคู่วัสดุและน้ำหนักสายพาน:**\n* **POM** (สลัก PA หรือ POM): น้ำหนัก **7.0 kg/m²**\n* **PP** (สลัก PA หรือ POM): น้ำหนัก **4.7 kg/m²**\n\nหากต้องการทราบข้อมูลการเลือกใช้วัสดุให้เหมาะกับประเภทสินค้าหรืออุณหภูมิใช้งาน สามารถแจ้งลักษณะหน้างานเพิ่มเติมได้เลยนะครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": null
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "MAT-G03",
+   "turn": "1",
+   "category": "graph_material",
+   "query": "EC254 R ทำจากวัสดุอะไรได้บ้าง",
+   "metrics": [],
+   "seconds": 4.6
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true
+   },
+   "passed": true,
+   "reply": "สายพาน Modutech รุ่น **EC508 C** มีวัสดุสายพาน (Belt Material) ให้เลือก 3 ชนิด โดยมีคู่สลัก (Pin Material) ตามตัวเลือกดังนี้ครับ:\n\n1. **POM (พอลิอะซีทัล)** \n   * ตัวเลือกสลัก: PA, POM หรือ PE\n2. **PP (โพลิโพรพิลีน)** \n   * ตัวเลือกสลัก: PP หรือ POM\n3. **PE (โพลิเอทิลีน)** \n   * ตัวเลือกสลัก: PE หรือ POM\n\nหากต้องการเลือกวัสดุให้เหมาะกับประเภทการใช้งาน สภาพแวดล้อม หรืออุณหภูมิของไลน์ผลิต สามารถแจ้งรายละเอียดเพิ่มเติมได้เลยนะครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": null
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "MAT-G04",
+   "turn": "1",
+   "category": "graph_material",
+   "query": "EC508 C ทำจากวัสดุอะไรได้บ้าง",
+   "metrics": [],
+   "seconds": 4.1
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_required": true
+   },
+   "passed": true,
+   "reply": "สายพาน Modutech รุ่น **HC152 C** สามารถเลือกผลิตจากวัสดุต่าง ๆ ได้ดังนี้ครับ\n\n**วัสดุตัวสายพาน (Belt Material):**\n* **POM (พอลิอะซีทัล):** แข็งแรง ทนการเสียดสีได้ดี\n* **PP (โพลิโพรพิลีน):** น้ำหนักเบา ทนสารเคมี\n* **PE (โพลิเอทิลีน):** เหมาะสำหรับงานอุณหภูมิต่ำหรือห้องเย็น\n\n**วัสดุสลักยึด (Pin Material):**\n* สามารถจับคู่กับสลัก **PA**, **POM**, **PP** หรือ **PE** ขึ้นอยู่กับเกรดของสายพานและสภาวะการใช้งานครับ\n\nหากต้องการทราบความเหมาะสมกับสารเคมี หรือสภาวะหน้างาน (เช่น อุณหภูมิ หรือไลน์เปียก/แห้ง) แจ้งข้อมูลเพิ่มเติมได้เลยนะครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": null
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "MAT-G05",
+   "turn": "1",
+   "category": "graph_material",
+   "query": "HC152 C ทำจากวัสดุอะไรได้บ้าง",
+   "metrics": [],
+   "seconds": 2.9
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพาน **EC127 C** มีข้อมูลสเตอร์ (Sprocket) ดังนี้ครับ\n\n* **จำนวนฟันที่มีให้เลือก:** 19, 24, 28, 30 และ 36 ฟัน\n* **ประเภทรูเพลา:** มีทั้งแบบเพลากลม (Round Bore) และเพลาเหลี่ยม (Square Bore) วัสดุ PA (โพลีอะไมด์)\n* **รหัสสเตอร์ (อนุมานจากซีรีส์):**\n  * รูเหลี่ยม: `EC127SQZ19*PA`, `EC127SQZ24*PA`, `EC127SQZ28*PA`, `EC127SQZ30*PA`, `EC127SQZ36*PA`\n  * รูกลม: `EC127SRZ19*PA`, `EC127SRZ24*PA`, `EC127SRZ28*PA`, `EC127SRZ30*PA`, `EC127SRZ36*PA`\n\n**หมายเหตุ:** \nสำหรับขนาดมิติสเตอร์อย่างละเอียด (เช่น เส้นผ่านศูนย์กลางพิทช์/นอก) และขนาดรูเพลา ต้องรบกวนตรวจสอบและยืนยันข้อมูลกับทางฝ่ายขายโดยตรงครับ รวมทั้งรหัสสเตอร์ข้างต้นเป็นการอนุมานตามซีรีส์ แนะนำให้ยืนยันความถูกต้องกับฝ่ายขายก่อนสั่งซื้อครับ",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-D01",
+   "turn": "1",
+   "category": "graph_blocked",
+   "query": "สเตอร์ของ EC127 C มีขนาดเท่าไหร่",
+   "metrics": [],
+   "seconds": 4.9
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "เรื่องขนาดเพลาของสายพาน EC127 C ต้องให้ฝ่ายขายยืนยันโดยตรงครับ เพราะขึ้นกับรายละเอียดงานและเงื่อนไขการสั่งซื้อ รบกวนแจ้งรุ่นสายพาน ความกว้าง ความยาว และจำนวนที่ต้องการ ผมจะส่งเรื่องต่อให้ฝ่ายขายติดต่อกลับครับ\nติดต่อฝ่ายขาย: โทร 086-3451403 · อีเมล Beltmactech@gmail.com",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-D02",
+   "turn": "1",
+   "category": "graph_blocked",
+   "query": "รูเพลาของสเตอร์ EC127 C กี่มิลลิเมตร",
+   "metrics": [],
+   "seconds": 0.0
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "เรื่องสเปกเฟืองของสายพาน EC254 C ต้องให้ฝ่ายขายยืนยันโดยตรงครับ เพราะขึ้นกับรายละเอียดงานและเงื่อนไขการสั่งซื้อ รบกวนแจ้งรุ่นสายพาน ความกว้าง ความยาว และจำนวนที่ต้องการ ผมจะส่งเรื่องต่อให้ฝ่ายขายติดต่อกลับครับ\nติดต่อฝ่ายขาย: โทร 086-3451403 · อีเมล Beltmactech@gmail.com",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-D03",
+   "turn": "1",
+   "category": "graph_blocked",
+   "query": "เส้นผ่านศูนย์กลางสเตอร์ของ EC254 C เท่าไหร่",
+   "metrics": [],
+   "seconds": 0.0
+  }
+ ]
+}

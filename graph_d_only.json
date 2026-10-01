@@ -1,0 +1,81 @@
+{
+ "module": "chatbot_v5",
+ "testcases": "testcases_graph_relations.csv",
+ "total_turns": 3,
+ "graded": 3,
+ "passed": 3,
+ "failed": 0,
+ "skipped_no_image": 0,
+ "turns_with_image": 0,
+ "errors": 0,
+ "seconds": 7.8,
+ "by_category": {
+  "graph_blocked": "3/3"
+ },
+ "by_check": {},
+ "results": [
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "สำหรับสายพาน **EC127 C** มีข้อมูลสเตอร์ดังนี้ครับ\n\n* **จำนวนฟันที่มีให้เลือก:** 19, 24, 28, 30 และ 36 ฟัน\n* **ประเภทรูเพลา:** มีทั้งแบบรูกลม (Round Bore) และรูเหลี่ยม (Square Bore)\n* **วัสดุสเตอร์:** PA (Polyamide) ตามรหัสที่มีระบุไว้\n\n**เรื่องขนาดสเตอร์และขนาดรูเพลา:**\nในเอกสารแคตตาล็อกมีการระบุตัวเลขขนาดไว้ แต่ไม่ได้นิยามความหมายของระยะต่างๆ ไว้อย่างชัดเจน จึงยังไม่สามารถระบุขนาดที่แน่นอนได้โดยตรง แนะนำให้ส่งเรื่องยืนยันขนาดและรหัสสเตอร์จริงกับทางฝ่ายขายอีกครั้งครับ (เนื่องจากรหัสสเตอร์เป็นการอนุมานจากซีรีส์ร่วมกันครับ)",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-D01",
+   "turn": "1",
+   "category": "graph_blocked",
+   "query": "สเตอร์ของ EC127 C มีขนาดเท่าไหร่",
+   "metrics": [],
+   "seconds": 4.7
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "เรื่องขนาดเพลาของสายพาน EC127 C ต้องให้ฝ่ายขายยืนยันโดยตรงครับ เพราะขึ้นกับรายละเอียดงานและเงื่อนไขการสั่งซื้อ รบกวนแจ้งรุ่นสายพาน ความกว้าง ความยาว และจำนวนที่ต้องการ ผมจะส่งเรื่องต่อให้ฝ่ายขายติดต่อกลับครับ\nติดต่อฝ่ายขาย: โทร 086-3451403 · อีเมล Beltmactech@gmail.com",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-D02",
+   "turn": "1",
+   "category": "graph_blocked",
+   "query": "รูเพลาของสเตอร์ EC127 C กี่มิลลิเมตร",
+   "metrics": [],
+   "seconds": 0.0
+  },
+  {
+   "checks": {
+    "no_error": true,
+    "answer_has_any": true,
+    "answer_avoids_forbidden": true
+   },
+   "passed": true,
+   "reply": "เรื่องสเปกเฟืองของสายพาน EC254 C ต้องให้ฝ่ายขายยืนยันโดยตรงครับ เพราะขึ้นกับรายละเอียดงานและเงื่อนไขการสั่งซื้อ รบกวนแจ้งรุ่นสายพาน ความกว้าง ความยาว และจำนวนที่ต้องการ ผมจะส่งเรื่องต่อให้ฝ่ายขายติดต่อกลับครับ\nติดต่อฝ่ายขาย: โทร 086-3451403 · อีเมล Beltmactech@gmail.com",
+   "error": null,
+   "info": {
+    "forbidden_absent_anywhere": true
+   },
+   "skipped": false,
+   "used_image": false,
+   "id": "SPK-D03",
+   "turn": "1",
+   "category": "graph_blocked",
+   "query": "เส้นผ่านศูนย์กลางสเตอร์ของ EC254 C เท่าไหร่",
+   "metrics": [],
+   "seconds": 0.0
+  }
+ ]
+}

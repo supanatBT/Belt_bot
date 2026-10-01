@@ -1,0 +1,61 @@
+══════════════════════════════════════════════════════════════════════
+TURN  sess_223935_94b20b_t001  [2026-09-30T22:39:35.633]
+══════════════════════════════════════════════════════════════════════
+  INPUT       : LF 820 K325 รับโหลดได้เท่าไหร่
+  HAS_IMAGE   : False
+  EFFECTIVE_Q : LF 820 K325 รับโหลดได้เท่าไหร่
+  QUERY_TYPE  : general
+
+── STEP 1: Keyword Boost ──────────────────────────────
+  hits=3  sideflex=False  straight=False  series=['820']
+    [exact       ] movex_chain_LF820_K325  boost=10.0
+    [fuzzy_mid   ] movex_chain_LF820_K450  boost=3.0
+    [fuzzy_mid   ] movex_chain_LF820_K750  boost=3.0
+
+── STEP 2: Image Search ───────────────────────────────
+  (not triggered)
+
+── STEP 3: GraphRAG ───────────────────────────────────
+  triggered_by=keyword  seeds=['movex_chain_LF820_K325']
+  same_series(7) → ['movex_chain_LF820_K400', 'movex_chain_LF820_K450', 'movex_chain_LF820_K600', 'movex_chain_LF820_K750', 'movex_sprocket_54201', 'movex_sprocket_54301', 'movex_sprocket_54401']
+  compatible(3) → ['movex_sprocket_54201', 'movex_sprocket_54301', 'movex_sprocket_54401']
+  materials=['LF']
+  processes=[]
+  total_graph_candidates=7
+
+── STEP 4: Text Search ────────────────────────────────
+  skipped=False  reason=  hits=0
+
+── STEP 5: RRF Fusion ─────────────────────────────────
+  total_candidates=6
+  Top-5 after RRF:
+    movex_chain_LF820_K325                    rrf=2.01544  kw=10.0  txt=[0, 4, 7, 8]  vit=None  sig=None  grph=-1.0
+    movex_chain_LF820_K750                    rrf=0.61429  kw=3.0  txt=[2, 9, 12, 17]  vit=None  sig=None  grph=-1.0
+    movex_chain_LF820_K450                    rrf=0.61379  kw=3.0  txt=[3, 13, 16, 18]  vit=None  sig=None  grph=-1.0
+    movex_chain_LF820_K400                    rrf=0.01471  kw=0.0  txt=[1, 6, 11, 14]  vit=None  sig=None  grph=-1.0
+    movex_chain_LF880_TAB_K325                rrf=0.01429  kw=0.0  txt=[10]  vit=None  sig=None  grph=-1.0
+
+── STEP 6: Reranker ───────────────────────────────────
+  [1] movex_chain_LF820_K325                    final=2.1654  CE=0.00  RRF=2.0154  kw=10.0
+  [2] movex_chain_LF820_K750                    final=0.7643  CE=0.00  RRF=0.6143  kw=3.0
+  [3] movex_chain_LF820_K450                    final=0.7638  CE=0.00  RRF=0.6138  kw=3.0
+  [4] movex_chain_LF820_K400                    final=0.0147  CE=0.00  RRF=0.0147  kw=0.0
+  [5] movex_chain_LF880_TAB_K325                final=0.0143  CE=0.00  RRF=0.0143  kw=0.0
+
+── STEP 7: LLM (Gemini) ───────────────────────────────
+  clarification=False  signal=''
+  tool_calls=0  latency=2445.2ms
+  reply_preview: โซ่ Movex รุ่น **LF 820 K325** มีค่าการรับแรงดึงใช้งานสูงสุด (**Max Working Load**) อยู่ที่ **1,625 นิวตัน (N)** ครับ 
+
+
+
+── STEP 8: Eval Flags ─────────────────────────────────
+  top1_series_ok     : True
+  sideflex_ok        : False
+  straight_ok        : False
+  ref_in_reply       : True
+  graph_contributed  : True
+  clarif_ok (broad)  : False
+  vit_series_ok      : False
+  error              : 
+

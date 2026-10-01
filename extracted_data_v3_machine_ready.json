@@ -1,0 +1,1120 @@
+{
+    "products": [
+        {
+            "product_id": "movex_chain_LF820_K325",
+            "Ref": "LF 820 K325",
+            "series": "820 Series",
+            "product_type": "Straight Running Chain",
+            "usage": "Suitable for single-line conveying of small footprint items such as PET bottles (330–600ml), aluminum cans, and glass jars. Ideal for low- to medium-speed filling lines.",
+            "key_features": "Standard 82.5mm width compatible with most industry-standard conveyor tracks. Balanced design for low- to medium-speed stability.",
+            "constraints": "Not recommended for unstable tall products without side guides. Single track application.",
+            "Plate_Width_mm": 82.5,
+            "Weight_kg_m": 0.89,
+            "Max_Working_Load_N": 1625,
+            "Material": "LF",
+            "search_content": "movex_chain_lf820_k325 lf 820 k325 820 series width 82.5mm lf suitable for single-line conveying of small footprint items such as pet bottles (330-600ml), aluminum cans, and glass jars. ideal for high-speed filling lines. standard 82.5mm width compatible with most industry-standard conveyor tracks. balanced design for high-speed stability. not recommended for unstable tall products without side guides. single track application. compatible with krones labeler, sidel filler, khs innofill, rotary filler, bottle washer, glass bottle conveyor, pet line",
+            "images": [
+                {
+                    "image_path": "image/movex_chain_LF820_K325/movex_LF820_K325_photo_back_badenv.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF820_K325/movex_LF820_K325_photo_back.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF820_K325/movex_LF820_K325_photo_side.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF820_K325/movex_LF820_K325_photo_top_badenv.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF820_K325/movex_LF820_K325_photo_top_badlight.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF820_K325/movex_LF820_K325_photo_top_farangle.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF820_K325/movex_LF820_K325_photo_top_flash.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF820_K325/movex_LF820_K325_photo_top.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF820_K325/movex_LF820_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_chain_LF820_K400",
+            "Ref": "LF 820 K400",
+            "series": "820 Series",
+            "product_type": "Straight Running Chain",
+            "usage": "Designed for medium-sized containers like 1.0L - 1.5L bottles, milk cartons (Tetra Pak), and aerosol cans requiring extra stability.",
+            "key_features": "Provides 23% more surface area than K325, reducing tipping risk for taller containers.",
+            "constraints": "Requires compatible 100mm+ guide rail spacing. Straight running only.",
+            "Plate_Width_mm": 101.6,
+            "Weight_kg_m": 0.95,
+            "Max_Working_Load_N": 1625,
+            "Material": "LF",
+            "search_content": "movex_chain_lf820_k400 lf 820 k400 820 series width 101.6mm lf designed for medium-sized containers like 1.0l - 1.5l bottles, milk cartons (tetra pak), and aerosol cans requiring extra stability. provides 23% more surface area than k325, reducing tipping risk for taller containers. requires compatible 100mm+ guide rail spacing. straight running only. compatible with krones labeler, sidel filler, khs innofill, rotary filler, bottle washer, glass bottle conveyor, pet line",
+            "images": [
+                {
+                    "image_path": "image/movex_chain_LF820_K400/movex_LF820_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_chain_LF820_K450",
+            "Ref": "LF 820 K450",
+            "series": "820 Series",
+            "product_type": "Straight Running Chain",
+            "usage": "Optimized for large containers such as 2L soft drink bottles, 5-gallon jugs, or glass jars with wide bases. Also used for small multi-packs.",
+            "key_features": "Wide 114.3mm plate offers superior support for heavy or wide-base products. Often used in parallel for wide belt replacements.",
+            "constraints": "Higher friction contact area; consider lubrication for high loads.",
+            "Plate_Width_mm": 114.3,
+            "Weight_kg_m": 1.0,
+            "Max_Working_Load_N": 1625,
+            "Material": "LF",
+            "search_content": "movex_chain_lf820_k450 lf 820 k450 820 series width 114.3mm lf optimized for large containers such as 2l soft drink bottles, 5-gallon jugs, or glass jars with wide bases. also used for small multi-packs. wide 114.3mm plate offers superior support for heavy or wide-base products. often used in parallel for wide belt replacements. higher friction contact area; consider lubrication for high loads. compatible with krones labeler, sidel filler, khs innofill, rotary filler, bottle washer, glass bottle conveyor, pet line",
+            "images": [
+                {
+                    "image_path": "image/movex_chain_LF820_K450/movex_LF820_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_chain_LF820_K600",
+            "Ref": "LF 820 K600",
+            "series": "820 Series",
+            "product_type": "Straight Running Chain",
+            "usage": "Heavy-duty application for secondary packaging like cardboard boxes, shrink-wrapped 6-packs, and plastic trays.",
+            "key_features": "Extra-wide 152.4mm surface prevents product overhang and ensures smooth transfer of non-cylindrical items.",
+            "constraints": "Requires multiple wear strips for underside support due to width.",
+            "Plate_Width_mm": 152.4,
+            "Weight_kg_m": 1.22,
+            "Max_Working_Load_N": 1625,
+            "Material": "LF",
+            "search_content": "movex_chain_lf820_k600 lf 820 k600 820 series width 152.4mm lf heavy-duty application for secondary packaging like cardboard boxes, shrink-wrapped 6-packs, and plastic trays. extra-wide 152.4mm surface prevents product overhang and ensures smooth transfer of non-cylindrical items. requires multiple wear strips for underside support due to width. compatible with krones labeler, sidel filler, khs innofill, rotary filler, bottle washer, glass bottle conveyor, pet line",
+            "images": [
+                {
+                    "image_path": "image/movex_chain_LF820_K600/movex_LF820_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_chain_LF820_K750",
+            "Ref": "LF 820 K750",
+            "series": "820 Series",
+            "product_type": "Straight Running Chain",
+            "usage": "Specialized for bulk handling of large plastic crates, kegs, and industrial parts. Commonly used in accumulation tables (mass flow).",
+            "key_features": "Maximum width of 190.5mm in this series. High load distribution capability for heavy bulk items.",
+            "constraints": "High turning moment; strict straight-line alignment required to prevent jamming.",
+            "Plate_Width_mm": 190.5,
+            "Weight_kg_m": 1.43,
+            "Max_Working_Load_N": 1625,
+            "Material": "LF",
+            "search_content": "movex_chain_lf820_k750 lf 820 k750 820 series width 190.5mm lf specialized for bulk handling of large plastic crates, kegs, and industrial parts. commonly used in accumulation tables (mass flow). maximum width of 190.5mm in this series. high load distribution capability for heavy bulk items. high turning moment; strict straight-line alignment required to prevent jamming. compatible with krones labeler, sidel filler, khs innofill, rotary filler, bottle washer, glass bottle conveyor, pet line",
+            "images": [
+                {
+                    "image_path": "image/movex_chain_LF820_K750/movex_LF820_K750_back.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF820_K750/movex_LF820_K750_backbadenv.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF820_K750/movex_LF820_K750_backdetail.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF820_K750/movex_LF820_K750_side.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF820_K750/movex_LF820_K750_top.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF820_K750/movex_LF820_K750_topbadenv.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF820_K750/movex_LF820_K750_topbadlight.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF820_K750/movex_LF820_K750_topflash.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF820_K750/movex_LF820_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_chain_LF821_K750",
+            "Ref": "LF 821 K750",
+            "series": "821 Series",
+            "product_type": "Straight Running Chain",
+            "usage": "Heavy-duty straight conveying for high-load industrial applications. Specifically designed for medium-to-large footprints like plastic crates, beverage kegs, and automotive components where the standard 820 series reaches its tension limit.",
+            "key_features": "Reinforced double-hinge construction for maximum tensile strength (up to 2,770 N); features a 4.8 mm thicker plate for superior impact resistance and stability in demanding production environments.",
+            "constraints": "Requires more robust drive motors due to higher weight per meter (2.55 kg/m). Strictly for straight-line layouts. Minimum backflex radius of 50 mm.",
+            "Plate_Width_mm": 190.5,
+            "Weight_kg_m": 2.55,
+            "Max_Working_Load_N": 2770,
+            "Material": "LF",
+            "search_content": "movex_chain_lf821_k750 lf 821 k750 821 series width 190.5mm lf heavy-duty straight conveying for high-load industrial applications. specifically designed for medium-to-large footprints like plastic crates, beverage kegs, and automotive components where the standard 820 series reaches its tension limit. reinforced double-hinge construction for maximum tensile strength (up to 2,770 n); features a 4.8 mm thicker plate for superior impact resistance and stability in demanding production environments. requires more robust drive motors due to higher weight per meter (2.55 kg/m). strictly for straight-line layouts. minimum backflex radius of 50 mm. compatible with tetra pak cardboard packer, douglas case packer, kettner palletizer, crate conveyor, end of line system",
+            "images": [
+                {
+                    "image_path": "image/movex_chain_LF821_K750/movex_LF821_K750_back.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF821_K750/movex_LF821_K750_backbadenv.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF821_K750/movex_LF821_K750_backdetail.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF821_K750/movex_LF821_K750_side.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF821_K750/movex_LF821_K750_top.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF821_K750/movex_LF821_K750_topbadenv.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF821_K750/movex_LF821_K750_topbadlight.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF821_K750/movex_LF821_K750_topwide.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF821_K750/movex_LF821_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_chain_LF821_K1000",
+            "Ref": "LF 821 K1000",
+            "series": "821 Series",
+            "product_type": "Straight Running Chain",
+            "usage": "High-capacity straight conveying for wide and heavy items. Ideal for large automotive assemblies, bulk chemical containers, and high-volume accumulation tables requiring a stable, wide-surface deck.",
+            "key_features": "Wide 254 mm surface combined with high tensile strength (2,770 N). The double-hinge design ensures even load distribution across the pin, preventing plate deformation under heavy central loads.",
+            "constraints": "The 3.05 kg/m weight requires reinforced conveyor frames and high-quality wear strips (UHMW-PE) to manage energy consumption and friction.",
+            "Plate_Width_mm": 254.0,
+            "Weight_kg_m": 3.05,
+            "Max_Working_Load_N": 2770,
+            "Material": "LF",
+            "search_content": "movex_chain_lf821_k1000 lf 821 k1000 821 series width 254.0mm lf high-capacity straight conveying for wide and heavy items. ideal for large automotive assemblies, bulk chemical containers, and high-volume accumulation tables requiring a stable, wide-surface deck. wide 254 mm surface combined with high tensile strength (2,770 n). the double-hinge design ensures even load distribution across the pin, preventing plate deformation under heavy central loads. the 3.05 kg/m weight requires reinforced conveyor frames and high-quality wear strips (uhmw-pe) to manage energy consumption and friction. compatible with tetra pak cardboard packer, douglas case packer, kettner palletizer, crate conveyor, end of line system",
+            "images": [
+                {
+                    "image_path": "image/movex_chain_LF821_K1000/movex_LF821_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_chain_LF821_K1200",
+            "Ref": "LF 821 K1200",
+            "series": "821 Series",
+            "product_type": "Straight Running Chain",
+            "usage": "Maximum-width heavy-duty conveying for industrial bulk handling. Optimized for the largest footprints in the series, such as industrial pallets, large machinery parts, or wide mass-flow accumulation zones.",
+            "key_features": "Maximum available width of 304.8 mm (12 inches) with the robust 821 series double-hinge platform. Offers the highest surface stability while maintaining a massive 2,770 N working load capacity.",
+            "constraints": "Heaviest model in the series (3.35 kg/m). Not recommended for high-speed operation due to high mass inertia; best suited for low-to-medium speed, high-torque lines.",
+            "Plate_Width_mm": 304.8,
+            "Weight_kg_m": 3.35,
+            "Max_Working_Load_N": 2770,
+            "Material": "LF",
+            "search_content": "movex_chain_lf821_k1200 lf 821 k1200 821 series width 304.8mm lf maximum-width heavy-duty conveying for industrial bulk handling. optimized for the largest footprints in the series, such as industrial pallets, large machinery parts, or wide mass-flow accumulation zones. maximum available width of 304.8 mm (12 inches) with the robust 821 series double-hinge platform. offers the highest surface stability while maintaining a massive 2,770 n working load capacity. heaviest model in the series (3.35 kg/m). not recommended for high-speed operation due to high mass inertia; best suited for low-to-medium speed, high-torque lines. compatible with tetra pak cardboard packer, douglas case packer, kettner palletizer, crate conveyor, end of line system",
+            "images": [
+                {
+                    "image_path": "image/movex_chain_LF821_K1200/movex_LF821_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_chain_LF880_TAB_K325",
+            "Ref": "LF 880 TAB K325",
+            "series": "880 Series",
+            "product_type": "Sideflexing Chain",
+            "usage": "Standard side-flexing conveying for low- to medium-speed curved layouts. Ideal for transporting single-file items like PET bottles, glass bottles, and aluminum cans through complex filling and packaging lines.",
+            "key_features": "Features a TAB hold-down system to prevent lifting in curves. Offers a standard 457 mm minimum turning radius, balancing compact layout design with smooth product flow.",
+            "constraints": "Requires TAB-profile wear strips. Minimum curve radius is 457 mm. Not interchangeable with Bevel-type chains.",
+            "Plate_Width_mm": 82.5,
+            "Weight_kg_m": 1.015,
+            "Min_curve_radius_mm": 457,
+            "Max_Working_Load_N": 2200,
+            "Material": "LF",
+            "search_content": "movex_chain_lf880_tab_k325 lf 880 tab k325 880 series width 82.5mm lf standard side-flexing conveying for high-speed curved layouts. ideal for transporting single-file items like pet bottles, glass bottles, and aluminum cans through complex filling and packaging lines. features a tab hold-down system to prevent lifting in curves. offers a standard 457 mm minimum turning radius, balancing compact layout design with smooth product flow. requires tab-profile wear strips. minimum curve radius is 457 mm. not interchangeable with bevel-type chains. compatible with krones synco, sidel gebo, distribution line, accumulation table, curved layout machine",
+            "images": [
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K325/movex_LF880_K325_photo_backbadenv.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K325/movex_LF880_K325_photo_backcurve.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K325/movex_LF880_K325_photo_side.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K325/movex_LF880_K325_photo_top.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K325/movex_LF880_K325_photo_topbadenv.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K325/movex_LF880_K325_photo_topbadlight.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K325/movex_LF880_K325_photo_topcurve.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K325/movex_LF880_K325_photo_topflash.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K325/movex_LF880_K325_photo_zoom.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K325/movex_LF880_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_chain_LF880_TAB_K450",
+            "Ref": "LF 880 TAB K450",
+            "series": "880 Series",
+            "product_type": "Sideflexing Chain",
+            "usage": "Wide-base side-flexing conveying for larger unstable containers. Suited for 2-liter bottles, square juice cartons, or wide glass jars navigating curved conveyor sections.",
+            "key_features": "Wide 114.3 mm plate improves stability for top-heavy products in turns. Maintains the compact 457 mm turning radius despite the increased width, allowing flexibility in line design.",
+            "constraints": "Higher friction coefficients in curves due to increased surface contact. Requires wider track support. Minimum curve radius 457 mm.",
+            "Plate_Width_mm": 114.3,
+            "Weight_kg_m": 1.09,
+            "Min_curve_radius_mm": 457,
+            "Max_Working_Load_N": 2200,
+            "Material": "LF",
+            "search_content": "movex_chain_lf880_tab_k450 lf 880 tab k450 880 series width 114.3mm lf wide-base side-flexing conveying for larger unstable containers. suited for 2-liter bottles, square juice cartons, or wide glass jars navigating curved conveyor sections. wide 114.3 mm plate improves stability for top-heavy products in turns. maintains the compact 457 mm turning radius despite the increased width, allowing flexibility in line design. higher friction coefficients in curves due to increased surface contact. requires wider track support. minimum curve radius 457 mm. compatible with krones synco, sidel gebo, distribution line, accumulation table, curved layout machine",
+            "images": [
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K450/movex_LF880_K450_photo_back.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K450/movex_LF880_K450_photo_backcurve.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K450/movex_LF880_K450_photo_backbadlight.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K450/movex_LF880_K450_photo_top.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K450/movex_LF880_K450_photo_topbadenv.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K450/movex_LF880_K450_photo_topbadlight.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K450/movex_LF880_K450_photo_topcurve.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K450/movex_LF880_K450_photo_topflash.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K450/movex_LF880_K450_photo_zoom.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LF880_TAB_K450/movex_LF880_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_chain_LF882_TAB_K750",
+            "Ref": "LF 882 TAB K750",
+            "series": "882 Series",
+            "product_type": "Sideflexing Chain",
+            "usage": "Heavy-duty curved conveying for industrial loads. Standard choice for handling beer kegs, automotive batteries, and loaded plastic crates requiring a rugged side-flexing solution.",
+            "key_features": "Offers superior tensile strength (3,830 N) for high-load loop layouts. Reinforced hinge construction minimizes wear and elongation compared to standard 880 chains.",
+            "constraints": "Minimum turning radius is 610 mm (wider than 880 series). Requires heavy-duty 882 series sprockets and tracks.",
+            "Plate_Width_mm": 190.5,
+            "Weight_kg_m": 2.45,
+            "Max_Working_Load_N": 3830,
+            "Material": "LF",
+            "search_content": "movex_chain_lf882_tab_k750 lf 882 tab k750 882 series width 190.5mm lf heavy-duty curved conveying for industrial loads. standard choice for handling beer kegs, automotive batteries, and loaded plastic crates requiring a rugged side-flexing solution. offers superior tensile strength (3,830 n) for high-load loop layouts. reinforced hinge construction minimizes wear and elongation compared to standard 880 chains. minimum turning radius is 610 mm (wider than 880 series). requires heavy-duty 882 series sprockets and tracks. compatible with krones linaflex, crate washer, keg line, heavy duty case transport, spiral conveyor",
+            "images": [
+                {
+                    "image_path": "image/movex_chain_LF882_TAB_K750/movex_LF882_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_chain_LF882_TAB_K1000",
+            "Ref": "LF 882 TAB K1000",
+            "series": "882 Series",
+            "product_type": "Sideflexing Chain",
+            "usage": "Wide-track heavy-duty conveying for large containers. Ideal for chemical drums, jerry cans, and large secondary packaging boxes that need to navigate turns without transfers.",
+            "key_features": "254 mm width provides excellent stability for top-heavy industrial containers in curves. Robust TAB design ensures secure track engagement under high side-loads.",
+            "constraints": "High chain weight (2.85 kg/m) increases friction. Requires 610 mm radius curves and robust drive systems.",
+            "Plate_Width_mm": 254.0,
+            "Weight_kg_m": 2.85,
+            "Max_Working_Load_N": 3830,
+            "Material": "LF",
+            "search_content": "movex_chain_lf882_tab_k1000 lf 882 tab k1000 882 series width 254.0mm lf wide-track heavy-duty conveying for large containers. ideal for chemical drums, jerry cans, and large secondary packaging boxes that need to navigate turns without transfers. 254 mm width provides excellent stability for top-heavy industrial containers in curves. robust tab design ensures secure track engagement under high side-loads. high chain weight (2.85 kg/m) increases friction. requires 610 mm radius curves and robust drive systems. compatible with krones linaflex, crate washer, keg line, heavy duty case transport, spiral conveyor",
+            "images": [
+                {
+                    "image_path": "image/movex_chain_LF882_TAB_K1000/movex_LF882_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_chain_LF882_TAB_K1200",
+            "Ref": "LF 882 TAB K1200",
+            "series": "882 Series",
+            "product_type": "Sideflexing Chain",
+            "usage": "Maximum-width side-flexing for bulk accumulation. Specialized for mass-flow layouts handling heavy volumes of glass or PET bottles, allowing for wide accumulation zones with curved returns.",
+            "key_features": "Widest side-flexing option (304.8 mm). Enables the design of high-capacity accumulation tables with fewer chain strands while maintaining high load capacity.",
+            "constraints": "Heaviest option (3.40 kg/m) with significant inertial mass. Not suitable for high-speed start-stop applications. Requires lubrication in curves.",
+            "Plate_Width_mm": 304.8,
+            "Weight_kg_m": 3.4,
+            "Max_Working_Load_N": 3830,
+            "Material": "LF",
+            "search_content": "movex_chain_lf882_tab_k1200 lf 882 tab k1200 882 series width 304.8mm lf maximum-width side-flexing for bulk accumulation. specialized for mass-flow layouts handling heavy volumes of glass or pet bottles, allowing for wide accumulation zones with curved returns. widest side-flexing option (304.8 mm). enables the design of high-capacity accumulation tables with fewer chain strands while maintaining high load capacity. heaviest option (3.40 kg/m) with significant inertial mass. not suitable for high-speed start-stop applications. requires lubrication in curves. compatible with krones linaflex, crate washer, keg line, heavy duty case transport, spiral conveyor",
+            "images": [
+                {
+                    "image_path": "image/movex_chain_LF882_TAB_K1200/movex_LF882_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_chain_LFN_83_MFM",
+            "Ref": "LFN 83 MFM",
+            "series": "83 MFM PRO Series",
+            "product_type": "Sideflexing Chain",
+            "usage": "Premium high-speed conveying for bottling lines utilizing magnetic curve tracks. Optimized for maximum efficiency in transporting standard beverage containers (PET/Glass) with minimal noise and vibration.",
+            "key_features": "Short 33.5 mm pitch ensures ultra-smooth operation at high speeds. The magnetic system design removes the need for hold-down tabs, creating a hygienic, easy-to-clean surface ideal for food safety compliance.",
+            "constraints": "Requires magnetic corner tracks. 33.5 mm pitch is NOT compatible with standard 38.1 mm sprockets or chains.",
+            "Plate_Width_mm": 83.0,
+            "Weight_kg_m": 0.955,
+            "Pitch_mm": 33.5,
+            "Radius_min_mm": 160.0,
+            "Links_m": "5.025 m (150 links)",
+            "Max_Working_Load_N": 2400,
+            "Material": "LFN",
+            "Pivot_material": "MX White",
+            "search_content": "movex_chain_lfn_83_mfm lfn 83 mfm 83 mfm pro series width 83.0mm lfn premium high-speed conveying for bottling lines utilizing magnetic curve tracks. optimized for maximum efficiency in transporting standard beverage containers (pet/glass) with minimal noise and vibration. short 33.5 mm pitch ensures ultra-smooth operation at high speeds. the magnetic system design removes the need for hold-down tabs, creating a hygienic, easy-to-clean surface ideal for food safety compliance. requires magnetic corner tracks. 33.5 mm pitch is not compatible with standard 38.1 mm sprockets or chains. upgrade for high speed krones modul, sidel matrix, magnetic system conveyor, khs innoline (high speed)",
+            "images": [
+                {
+                    "image_path": "image/movex_chain_LFN_83_MFM/movex_LFN 83 MFM_photo_back.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_83_MFM/movex_LFN 83 MFM_photo_backbadenv.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_83_MFM/movex_LFN 83 MFM_photo_backflash.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_83_MFM/movex_LFN 83 MFM_photo_top.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_83_MFM/movex_LFN 83 MFM_photo_topbadenv.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_83_MFM/movex_LFN 83 MFM_photo_topbadlight.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_83_MFM/movex_LFN 83 MFM_photo_topcurve.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_83_MFM/movex_LFN 83 MFM_photo_topflash.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_83_MFM/movex_LFN 83 MFM_photo_topwide.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_83_MFM/movex_LFN 83 MFM_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_chain_LFN_103_MFH",
+            "Ref": "LFN 103 MFH",
+            "series": "103 MFM PRO Series",
+            "product_type": "Sideflexing Chain",
+            "usage": "Wide-format high-performance conveying for larger containers in magnetic track systems. Perfect for premium packaging lines where product stability and throughput speed are paramount.",
+            "key_features": "103 mm width offers enhanced stability for larger bottles. Incorporates MX Pivot technology to resist wear and elongation, making it the most durable solution for heavy-duty high-speed loops.",
+            "constraints": "Exclusive to magnetic track systems. Pitch (33.5mm) and sprocket dimensions differ from standard series. Best suited for new high-efficiency line installations.",
+            "Plate_Width_mm": 103.0,
+            "Weight_kg_m": 1.648,
+            "Pitch_mm": 35.5,
+            "Radius_min_mm": 170.0,
+            "Links_m": "5.041 m (142 links)",
+            "Max_Working_Load_N": 2400,
+            "Material": "LFN",
+            "Pivot_material": "MX White",
+            "search_content": "movex_chain_lfn_103_mfh lfn 103 mfh 103 mfm pro series width 103.0mm lfn wide-format high-performance conveying for larger containers in magnetic track systems. perfect for premium packaging lines where product stability and throughput speed are paramount. 103 mm width offers enhanced stability for larger bottles. incorporates mx pivot technology to resist wear and elongation, making it the most durable solution for heavy-duty high-speed loops. exclusive to magnetic track systems. pitch (33.5mm) and sprocket dimensions differ from standard series. best suited for new high-efficiency line installations. upgrade for high speed krones modul, sidel matrix, magnetic system conveyor, khs innoline (high speed)",
+            "images": [
+                {
+                    "image_path": "image/movex_chain_LFN_103_MFH/movex_LFN 103 MFH_photo_zoom.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_103_MFH/movex_LFN 103 MFH_photo_back.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_103_MFH/movex_LFN 103 MFH_photo_backbadlight.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_103_MFH/movex_LFN 103 MFH_photo_backflash.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_103_MFH/movex_LFN 103 MFH_photo_top.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_103_MFH/movex_LFN 103 MFH_photo_topbadenv.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_103_MFH/movex_LFN 103 MFH_photo_topbadlight.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_103_MFH/movex_LFN 103 MFH_photo_topcurve.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_103_MFH/movex_LFN 103 MFH_photo_topwide.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_chain_LFN_103_MFH/movex_LFN 103 MFH_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_sprocket_58801",
+            "Art_Nr": "58801",
+            "series": "83 MFM PRO",
+            "product_type": "Sprocket",
+            "Sprocket_Type": "Drive",
+            "manufacturing_process": "Machined",
+            "usage": "Used as a main drive component for 83 MFM PRO sideflexing chains in high-speed bottling and packaging lines.",
+            "key_features": "Machined from high-grade Polyamide, includes Stainless steel screws and Zinc plated steel nuts, precision tooth profile for reduced vibration.",
+            "constraints": "Strictly compatible with 83 MFM PRO series only. Not interchangeable with standard 83 M series.",
+            "compatible_chain": "83 MFM PRO",
+            "Z_Teeth": 12,
+            "Bore_mm": 25.0,
+            "PD_mm": 129.4,
+            "OD_mm": 140.0,
+            "S_mm": 77.7,
+            "Material": "Polyamide",
+            "search_content": "movex_sprocket_58801  83 mfm pro width mm polyamide used as a main drive component for 83 mfm pro sideflexing chains in high-speed bottling and packaging lines. machined from high-grade polyamide, includes stainless steel screws and zinc plated steel nuts, precision tooth profile for reduced vibration. strictly compatible with 83 mfm pro series only. not interchangeable with standard 83 m series.",
+            "images": [
+                {
+                    "image_path": "image/movex_sprocket_58801/movex_sporcket83MFM_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_sprocket_57801",
+            "Art_Nr": "57801",
+            "series": "103 MFH PRO",
+            "product_type": "Sprocket",
+            "Sprocket_Type": "Drive",
+            "manufacturing_process": "Machined",
+            "usage": "Main drive gear for the 103 MFH PRO series, the largest and strongest chain in the MF PRO family.",
+            "key_features": "Heavy-duty machined design, optimized for high torque transmission, corrosion-resistant hardware included.",
+            "constraints": "Compatible only with 103 MFH PRO chains. Ensure proper shaft alignment for maximum wear life.",
+            "compatible_chain": "103 MFH PRO",
+            "Z_Teeth": 12,
+            "Bore_mm": 25.0,
+            "PD_mm": 137.2,
+            "OD_mm": 144.5,
+            "S_mm": 82.5,
+            "Material": "Polyamide",
+            "search_content": "movex_sprocket_57801  103 mfh pro width mm polyamide main drive gear for the 103 mfh pro series, the largest and strongest chain in the mf pro family. heavy-duty machined design, optimized for high torque transmission, corrosion-resistant hardware included. compatible only with 103 mfh pro chains. ensure proper shaft alignment for maximum wear life.",
+            "images": [
+                {
+                    "image_path": "image/movex_sprocket_57801/movex_sporcket103MFH_photo_1.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_57801/movex_sporcket103MFH_photo_2.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_57801/movex_sporcket103MFH_photo_3.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_57801/movex_sporcket103MFH_photo_4.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_57801/movex_sporcket103MFH_photo_5.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_57801/movex_sporcket103MFH_photo_6.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_57801/movex_sporcket103MFH_photo_7.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_57801/movex_sporcket103MFH_photo_8.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_57801/movex_sporcket103MFH_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_sprocket_54201",
+            "Art_Nr": "54201",
+            "series": "820 Series",
+            "product_type": "Sprocket",
+            "Sprocket_Type": "Drive",
+            "manufacturing_process": "Molded",
+            "usage": "Primary drive or idler component for straight running conveyor systems. Widely used in general food and beverage packaging lines.",
+            "key_features": "Manufactured from Reinforced Polyamide (Black); cost-effective solution for high-volume production; robust design for standard industrial environments.",
+            "constraints": "Standard precision levels; not recommended for extremely high-speed lines where noise reduction is critical.",
+            "compatible_chain": "820 Series",
+            "Z_Teeth": 21,
+            "Bore_mm": 25.0,
+            "PD_mm": 129.3,
+            "OD_mm": 129.0,
+            "S_mm": 67.8,
+            "Material": "Polyamide",
+            "search_content": "movex_sprocket_54201  820 series width mm polyamide primary drive or idler component for straight running conveyor systems. widely used in general food and beverage packaging lines. manufactured from reinforced polyamide (black); cost-effective solution for high-volume production; robust design for standard industrial environments. standard precision levels; not recommended for extremely high-speed lines where noise reduction is critical. compatible with krones labeler, sidel filler, khs innofill, rotary filler, bottle washer, glass bottle conveyor, pet line",
+            "images": [
+                {
+                    "image_path": "image/movex_sprocket_54201/movex_sprocket820_photo.PNG",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_54201/movex_sprocket820_photo1.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_54201/movex_sprocket820_photo2.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_54201/movex_sprocket820_photo3.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_54201/movex_sprocket820_photo4.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_54201/movex_sprocket820_photo5.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_54201/movex_sprocket820_photo6.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_54201/movex_sprocket820_photo7.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_54201/movex_sprocket820_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_sprocket_54301",
+            "Art_Nr": "54301",
+            "series": "820 Series",
+            "product_type": "Sprocket",
+            "Sprocket_Type": "Drive",
+            "manufacturing_process": "Molded",
+            "usage": "Primary drive or idler component for straight running conveyor systems. Widely used in general food and beverage packaging lines.",
+            "key_features": "Manufactured from Reinforced Polyamide (Black); cost-effective solution for high-volume production; robust design for standard industrial environments.",
+            "constraints": "Standard precision levels; not recommended for extremely high-speed lines where noise reduction is critical.",
+            "compatible_chain": "820 Series",
+            "Z_Teeth": 23,
+            "Bore_mm": 25.0,
+            "PD_mm": 141.2,
+            "OD_mm": 142.0,
+            "S_mm": 73.8,
+            "Material": "Polyamide",
+            "search_content": "movex_sprocket_54301  820 series width mm polyamide primary drive or idler component for straight running conveyor systems. widely used in general food and beverage packaging lines. manufactured from reinforced polyamide (black); cost-effective solution for high-volume production; robust design for standard industrial environments. standard precision levels; not recommended for extremely high-speed lines where noise reduction is critical. compatible with krones labeler, sidel filler, khs innofill, rotary filler, bottle washer, glass bottle conveyor, pet line",
+            "images": [
+                {
+                    "image_path": "image/movex_sprocket_54301/movex_sprocket820_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_sprocket_54401",
+            "Art_Nr": "54401",
+            "series": "820 Series",
+            "product_type": "Sprocket",
+            "Sprocket_Type": "Drive",
+            "manufacturing_process": "Molded",
+            "usage": "Primary drive or idler component for straight running conveyor systems. Widely used in general food and beverage packaging lines.",
+            "key_features": "Manufactured from Reinforced Polyamide (Black); cost-effective solution for high-volume production; robust design for standard industrial environments.",
+            "constraints": "Standard precision levels; not recommended for extremely high-speed lines where noise reduction is critical.",
+            "compatible_chain": "820 Series",
+            "Z_Teeth": 25,
+            "Bore_mm": 25.0,
+            "PD_mm": 153.2,
+            "OD_mm": 154.0,
+            "S_mm": 79.8,
+            "Material": "Polyamide",
+            "search_content": "movex_sprocket_54401  820 series width mm polyamide primary drive or idler component for straight running conveyor systems. widely used in general food and beverage packaging lines. manufactured from reinforced polyamide (black); cost-effective solution for high-volume production; robust design for standard industrial environments. standard precision levels; not recommended for extremely high-speed lines where noise reduction is critical. compatible with krones labeler, sidel filler, khs innofill, rotary filler, bottle washer, glass bottle conveyor, pet line",
+            "images": [
+                {
+                    "image_path": "image/movex_sprocket_54401/movex_sprocket820_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_sprocket_54901",
+            "Art_Nr": "54901",
+            "series": "880 Series",
+            "product_type": "Sideflexing Sprocket",
+            "Sprocket_Type": "Drive",
+            "manufacturing_process": "Molded",
+            "usage": "Specifically designed for sideflexing (curved) conveyor systems that require compact layouts.",
+            "key_features": "Optimized tooth profile to engage with TAB or Bevel retention systems of the 880 series; provides stable chain tracking through curves.",
+            "constraints": "Must ensure proper alignment of the curve tracks with the sprocket position to prevent chain pulsation.",
+            "compatible_chain": "880 Series (Used also for Series  828 - 878 TAB - 879 M - 879 TAB - 888 TAB - 888 TAB GT).",
+            "Z_Teeth": 10,
+            "Bore_mm": 25.0,
+            "PD_mm": 123.3,
+            "OD_mm": 122.0,
+            "S_mm": 65.25,
+            "Material": "Polyamide",
+            "search_content": "movex_sprocket_54901  880 series width mm polyamide specifically designed for sideflexing (curved) conveyor systems that require compact layouts. optimized tooth profile to engage with tab or bevel retention systems of the 880 series; provides stable chain tracking through curves. must ensure proper alignment of the curve tracks with the sprocket position to prevent chain pulsation. compatible with krones synco, sidel gebo, distribution line, accumulation table, curved layout machine",
+            "images": [
+                {
+                    "image_path": "image/movex_sprocket_54901/movex_sprocket880_photo.PNG",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_54901/movex_sprocket880_photo1.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_54901/movex_sprocket880_photo2.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_54901/movex_sprocket880_photo3.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_54901/movex_sprocket880_photo4.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_54901/movex_sprocket880_photo5.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_54901/movex_sprocket880_photo6.jpeg",
+                    "type": "photo"
+                },
+                {
+                    "image_path": "image/movex_sprocket_54901/movex_sprocket880_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_sprocket_55001",
+            "Art_Nr": "55001",
+            "series": "880 Series",
+            "product_type": "Sideflexing Sprocket",
+            "Sprocket_Type": "Drive",
+            "manufacturing_process": "Molded",
+            "usage": "Specifically designed for sideflexing (curved) conveyor systems that require compact layouts.",
+            "key_features": "Optimized tooth profile to engage with TAB or Bevel retention systems of the 880 series; provides stable chain tracking through curves.",
+            "constraints": "Must ensure proper alignment of the curve tracks with the sprocket position to prevent chain pulsation.",
+            "compatible_chain": "880 Series (Used also for Series  828 - 878 TAB - 879 M - 879 TAB - 888 TAB - 888 TAB GT).",
+            "Z_Teeth": 12,
+            "Bore_mm": 25.0,
+            "PD_mm": 147.2,
+            "OD_mm": 147.3,
+            "S_mm": 77.2,
+            "Material": "Polyamide",
+            "search_content": "movex_sprocket_55001  880 series width mm polyamide specifically designed for sideflexing (curved) conveyor systems that require compact layouts. optimized tooth profile to engage with tab or bevel retention systems of the 880 series; provides stable chain tracking through curves. must ensure proper alignment of the curve tracks with the sprocket position to prevent chain pulsation. compatible with krones synco, sidel gebo, distribution line, accumulation table, curved layout machine",
+            "images": [
+                {
+                    "image_path": "image/movex_sprocket_55001/movex_sprocket880_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        },
+        {
+            "product_id": "movex_sprocket_55601",
+            "Art_Nr": "55601",
+            "series": "882 Series",
+            "product_type": "Heavy-Duty Sprocket",
+            "Sprocket_Type": "Drive",
+            "manufacturing_process": "Molded",
+            "usage": "Designed for high-load sideflexing applications, such as glass bottle handling or heavy crate conveying.",
+            "key_features": "Wide tooth face to accommodate the higher tensile strength of the 882 series; reinforced structure to handle high torque transmission.",
+            "constraints": "Requires higher torque from the drive motor; ensure the shaft diameter is sufficient for heavy-duty loads.",
+            "compatible_chain": "882 Series (Also suitable for Series  8257).",
+            "Z_Teeth": 12,
+            "Bore_mm": 25.0,
+            "PD_mm": 147.2,
+            "OD_mm": 149.0,
+            "S_mm": 78.4,
+            "Material": "Polyamide",
+            "search_content": "movex_sprocket_55601  882 series width mm polyamide designed for high-load sideflexing applications, such as glass bottle handling or heavy crate conveying. wide tooth face to accommodate the higher tensile strength of the 882 series; reinforced structure to handle high torque transmission. requires higher torque from the drive motor; ensure the shaft diameter is sufficient for heavy-duty loads. compatible with krones linaflex, crate washer, keg line, heavy duty case transport, spiral conveyor",
+            "images": [
+                {
+                    "image_path": "image/movex_sprocket_55601/movex_sprocket882_drawing.PNG",
+                    "type": "drawing"
+                }
+            ]
+        }
+    ],
+    "Materials": [
+        {
+            "material_code": "LF",
+            "full_name": "Low Friction Acetal",
+            "color": "Brown / Grey",
+            "description": "The standard low-friction acetal resin used for a wide range of conveying applications. It provides a good balance between friction coefficient and mechanical strength.",
+            "advantages": [
+                "Reliable low-friction performance",
+                "Good wear resistance",
+                "Cost-effective for standard applications"
+            ],
+            "technical_specs": {
+                "working_temperature_dry": "-40°C to +80°C",
+                "working_temperature_wet": "-40°C to +65°C",
+                "certification": "Food contact compliant"
+            },
+            "best_used_for": [
+                "General purpose conveying",
+                "Standard bottling and packaging lines"
+            ]
+        },
+        {
+            "material_code": "LFA",
+            "full_name": "High Performance Low Friction Acetal",
+            "color": "Anthracite",
+            "description": "An advanced version of the LF material, designed for high-speed and high-load applications. It is the standard material for the new MF PRO series.",
+            "advantages": [
+                "Coefficient of friction optimization",
+                "Increased maximum working load (+15% in PRO Series)",
+                "Energy-saving due to reduced friction",
+                "Reduced noise during high-speed operation"
+            ],
+            "technical_specs": {
+                "working_temperature_dry": "-40°C to +80°C",
+                "working_temperature_wet": "-40°C to +65°C",
+                "feature": "Optimized shape for market compatibility"
+            },
+            "best_used_for": [
+                "High-speed bottling and canning",
+                "Energy-efficient conveyor systems",
+                "Modern high-load production lines"
+            ]
+        },
+        {
+            "material_code": "LFN",
+            "full_name": "Low Friction (White/Natural)",
+            "color": "White",
+            "description": "A low-friction material variant often used in the MF PRO and standard series, particularly where high visibility or specific material purity is required.",
+            "advantages": [
+                "High chemical resistance",
+                "Excellent visibility for inspection",
+                "Consistent low-friction properties"
+            ],
+            "technical_specs": {
+                "working_temperature": "Similar to standard Acetal range",
+                "key_feature": "Available in white for hygienic environments"
+            },
+            "best_used_for": [
+                "Food and beverage primary packaging",
+                "Hygienic environments",
+                "Inspection-heavy conveying lines"
+            ]
+        },
+        {
+            "material_code": "PFX",
+            "full_name": "Patented Extra Low Friction Material",
+            "color": "Light Grey",
+            "description": "A patented compound developed for dry-running applications where external lubrication is impossible. It significantly reduces the friction between the chain and the product.",
+            "advantages": [
+                "Ideal for dry running applications",
+                "Minimal dusting even under extreme conditions",
+                "Exceptional energy savings",
+                "Longer wear life"
+            ],
+            "technical_specs": {
+                "certification": "Food contact Certified",
+                "key_feature": "Self-lubricating compound"
+            },
+            "best_used_for": [
+                "Dry bottling lines",
+                "Pharmaceutical production",
+                "Cleanroom environments"
+            ]
+        },
+        {
+            "material_code": "MX / MX Pivot",
+            "full_name": "High Performance Performance Material",
+            "color": "Grey",
+            "description": "A performance-grade material used for both chain links and as a 'Pivot' material. Known for its extremely high mechanical strength and dimensional stability.",
+            "advantages": [
+                "Short elongation (minimal stretching)",
+                "High mechanical resistance",
+                "Increased stability for sideflexing chains",
+                "Excellent durability in heavy-duty cycles"
+            ],
+            "technical_specs": {
+                "working_load": "High resistance to deformation",
+                "key_feature": "Used in MX Pivot technology for MF PRO series"
+            },
+            "best_used_for": [
+                "Heavy load conveying",
+                "High-precision sideflexing systems",
+                "Long conveyor runs requiring minimal maintenance"
+            ]
+        },
+        {
+            "material_code": "MPX",
+            "full_name": "Multi-Performance Extra Low Friction",
+            "color": "Yellow / Orange",
+            "description": "A specialized material offering even lower friction than standard LF, designed to reduce product backpressure.",
+            "advantages": [
+                "Extreme low friction coefficient",
+                "Reduces product vibration and backpressure",
+                "High speed compatibility"
+            ],
+            "technical_specs": {
+                "key_feature": "Optimized for product stability"
+            },
+            "best_used_for": [
+                "Accumulation tables",
+                "High-speed container handling",
+                "Unstable product conveying"
+            ]
+        },
+        {
+            "material_code": "DKM",
+            "full_name": "High Strength Acetal",
+            "color": "Various",
+            "description": "A high-strength version of acetal resin meant for applications where maximum tension is the primary concern.",
+            "advantages": [
+                "Superior tensile strength",
+                "Resistance to high shock loads",
+                "Enhanced durability in demanding environments"
+            ],
+            "technical_specs": {
+                "working_load": "Optimized for maximum N (Newton) capacity"
+            },
+            "best_used_for": [
+                "Heavy duty industrial conveying",
+                "Automotive parts handling",
+                "Long distance conveyors"
+            ]
+        },
+        {
+            "material_code": "MWX",
+            "full_name": "Maximum Wear Resistance Material",
+            "color": "Black",
+            "description": "A specialized material focused on extreme resistance to abrasion and wear, often used in abrasive or dusty environments.",
+            "advantages": [
+                "Highest resistance to surface wear",
+                "Extended lifespan in abrasive conditions",
+                "Maintains performance in dusty environments"
+            ],
+            "technical_specs": {
+                "key_feature": "Abrasion resistant compound"
+            },
+            "best_used_for": [
+                "Glass handling",
+                "Abrasive packaging lines",
+                "Lines with high levels of dust or particles"
+            ]
+        },
+        {
+            "material_code": "UHMW-PE",
+            "full_name": "Ultra-High-Molecular-Weight Polyethylene",
+            "color": "Green / White / Black",
+            "description": "Used primarily for auxiliary components like Turning Disks and Wearstrips due to its excellent sliding properties and impact strength.",
+            "advantages": [
+                "Extremely low coefficient of friction",
+                "High impact resistance",
+                "Excellent chemical resistance",
+                "Self-lubricating"
+            ],
+            "technical_specs": {
+                "application": "Standard for Turning Disks in MF PRO series",
+                "material_type": "Molded Polyethylene"
+            },
+            "best_used_for": [
+                "Turning disks",
+                "Wearstrips and guide rails",
+                "Low-noise guide components"
+            ]
+        },
+        {
+            "material_code": "SS",
+            "full_name": "Austenitic Stainless Steel",
+            "color": "Metallic",
+            "description": "The material of choice for pins/pivots and heavy-duty steel chains. Provides maximum durability and hygiene.",
+            "advantages": [
+                "Maximum corrosion resistance",
+                "Extremely high load capacity",
+                "Easy to clean and sanitize"
+            ],
+            "technical_specs": {
+                "material_grade": "Austenitic Stainless Steel",
+                "application": "Standard for pins in all MF PRO chains"
+            },
+            "best_used_for": [
+                "Washdown environments",
+                "Extremely heavy loads",
+                "High-temperature applications"
+            ]
+        },
+        {
+            "material_code": "Polyamide",
+            "full_name": "Polyamide (PA) / Nylon",
+            "color": "Black",
+            "description": "A high-strength engineering plastic with excellent mechanical properties, high rigidity, and good wear resistance. In Movex systems, it is the primary material for high-precision machined sprockets.",
+            "advantages": [
+                "High mechanical strength and toughness",
+                "Excellent wear and abrasion resistance",
+                "High dimensional stability for precise tooth engagement",
+                "Good resistance to oils, greases, and many industrial chemicals"
+            ],
+            "technical_specs": {
+                "application": "Standard material for Machined Drive and Idler Sprockets",
+                "compatible_hardware": "Used with Stainless steel screws and Zinc plated steel nuts",
+                "manufacturing_process": "Precision Machined"
+            },
+            "best_used_for": [
+                "Drive and Idler sprockets for MF PRO and other chain series",
+                "Power transmission components requiring high durability",
+                "Applications where high-impact resistance is needed"
+            ]
+        }
+    ],
+    "manufacturing_process": [
+        {
+            "manufacturing_process": "Machined",
+            "full_name": "Precision Machined (Fresata)",
+            "description": "CNC machined from solid engineering plastic blocks. This process ensures the highest level of precision and smooth surface finish for sprocket teeth.",
+            "comparison_points": {
+                "precision": "High Precision (CNC controlled)",
+                "noise_level": "Extremely Low",
+                "vibration": "Minimal",
+                "surface_finish": "Smooth and polished",
+                "durability": "High (due to better tooth engagement)"
+            },
+            "advantages": [
+                "Significant noise reduction in high-speed lines",
+                "Reduces chain wear by providing perfect tooth engagement",
+                "Superior dimensional stability",
+                "Ideal for high-performance series like MF PRO"
+            ],
+            "best_used_for": [
+                "High-speed bottling and packaging lines",
+                "Environments where noise reduction is critical",
+                "High-load applications requiring maximum reliability"
+            ]
+        },
+        {
+            "manufacturing_process": "Molded",
+            "full_name": "Injection Molded (Stampata)",
+            "description": "Produced using high-pressure injection molding tools. This is the standard manufacturing method for high-volume production.",
+            "comparison_points": {
+                "precision": "Standard (molding tolerances)",
+                "noise_level": "Standard",
+                "vibration": "Moderate",
+                "surface_finish": "Standard (may have parting lines)",
+                "durability": "Standard"
+            },
+            "advantages": [
+                "Cost-effective for large scale projects",
+                "Consistent quality for standard applications",
+                "Available in various materials (Acetal, Reinforced PA)",
+                "Easily color-coded (White for hygiene, Black for industrial)"
+            ],
+            "best_used_for": [
+                "General purpose conveyors with moderate speeds",
+                "Budget-conscious projects",
+                "Standard food and beverage lines"
+            ]
+        }
+    ]
+}

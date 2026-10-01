@@ -1,0 +1,26 @@
+{
+    "id2label": {
+        "0": "movex_chain_LF820_K325",
+        "1": "movex_chain_LF820_K750",
+        "2": "movex_chain_LF821_K750",
+        "3": "movex_chain_LF880_TAB_K325",
+        "4": "movex_chain_LF880_TAB_K450",
+        "5": "movex_chain_LFN_103_MFH",
+        "6": "movex_chain_LFN_83_MFM",
+        "7": "movex_sprocket_54201",
+        "8": "movex_sprocket_54901",
+        "9": "movex_sprocket_57801"
+    },
+    "label2id": {
+        "movex_chain_LF820_K325": "0",
+        "movex_chain_LF820_K750": "1",
+        "movex_chain_LF821_K750": "2",
+        "movex_chain_LF880_TAB_K325": "3",
+        "movex_chain_LF880_TAB_K450": "4",
+        "movex_chain_LFN_103_MFH": "5",
+        "movex_chain_LFN_83_MFM": "6",
+        "movex_sprocket_54201": "7",
+        "movex_sprocket_54901": "8",
+        "movex_sprocket_57801": "9"
+    }
+}

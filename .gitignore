@@ -1,0 +1,4 @@
+# ไฟล์ Environment Variables จริง (ห้ามหลุดขึ้น GitHub เด็ดขาด)
+.env
+.env.*
+! .env.example
